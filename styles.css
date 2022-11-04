@@ -1,7 +1,7 @@
 * {
-   box-sizing: border-box;
-   margin: 0;
-   padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 ::-webkit-scrollbar {
@@ -20,7 +20,8 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-header, footer {
+header,
+footer {
     background-color: rgba(60, 182, 182, 0.596);
     background-image: linear-gradient(to bottom right, rgba(60, 182, 182, 0.596), rgba(130, 224, 236, 0.418));
 }
@@ -38,8 +39,9 @@ header a {
 
 footer {
     border-top: 1px solid rgba(6, 41, 41, 0.952);
-    bottom: 10vh;
-    left: 0;
+    align-content: center;
+    text-align: center;
+    padding-top: 2.5rem;
 }
 
 main {
@@ -48,7 +50,8 @@ main {
     overflow-y: auto;
 }
 
-h1, h2 {
+h1,
+h2 {
     text-align: center;
     color: rgba(6, 41, 41, 0.952);
     margin-top: 1rem;
@@ -72,7 +75,8 @@ table {
     margin-bottom: 1.2rem;
 }
 
-th, td {
+th,
+td {
     padding: 0.5rem;
 }
 
@@ -105,11 +109,17 @@ img {
     max-width: 10rem;
 }
 
+p {
+    font-size: 1.2rem;
+}
 
+.text-column {
+    padding: 1.2rem;
+}
 
 /*
 -------------------------------------------------------------------------------
-Grid
+Grid and responsiveness
 -------------------------------------------------------------------------------
 */
 
@@ -123,11 +133,25 @@ body {
         "footer"
 }
 
-header {
-    grid-area: header;
-    display: grid;
-    grid-template-columns: auto 20% 20% auto 5% auto;
-    grid-template-areas: ". homepage github . mode-switch-wrapper .";
+@media only screen and (max-width: 768px) {
+    header {
+        grid-area: header;
+        display: grid;
+        grid-template-columns: auto 20% auto 5%;
+        grid-template-rows: auto auto;
+        grid-template-areas:
+            ". homepage . mode-switch-wrapper ."
+            ". github . . .";
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    header {
+        grid-area: header;
+        display: grid;
+        grid-template-columns: auto 20% 20% auto 5% auto;
+        grid-template-areas: ". homepage github . mode-switch-wrapper .";
+    }
 }
 
 main {
@@ -148,4 +172,25 @@ footer {
 
 #mode-switch-wrapper {
     grid-area: mode-switch-wrapper;
+}
+
+.first-section {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: auto auto;
+    grid-template-areas:
+        "introduction introduction"
+        "table-wrapper text-column";
+}
+
+.introduction {
+    grid-area: introduction;
+}
+
+.table-wrapper {
+    grid-area: table-wrapper;
+}
+
+.text-column {
+    grid-area: text-column;
 }
