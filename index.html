@@ -1,101 +1,136 @@
 <!DOCTYPE html>
 <html lang="en-US">
-    <head>
-        <title>223435IADB</title>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="author" content="devKarin">
-        <link rel="stylesheet" href="./styles.css">
-    </head>
-    <body>
+
+<head>
+    <title>223435IADB</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="devKarin">
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+    <header>
+        <a id="homepage-link" href="https://devkarinportfolio.herokuapp.com/" target="_self">Homepage</a><a id="github-link" href="https://github.com/devKarin" target="_blank">GitHub</a>
+        <div id="mode-switch-wrapper"><button id="mode-switch" onclick="darkMode()">&#127769;</button></div>
+    </header>
+    <main>
         <h1>223435</h1>
         <h2>About the page</h2>
-        <p>This static webpage is created as a part of introductory subject assignment of <a href="https://taltech.ee/">TalTech</a>IT systems development studies.</p>
+        <div class="introduction">
+            <p>This static webpage is created as a part of introductory subject assignment of <a
+                    href="https://taltech.ee/" target="_blank">TalTech</a>IT systems development studies.</p>
+        </div>
+
         <p>Requirements:</p>
-        <table>
-            <tr>
-                <th>
-                    Requirement
-                </th>
-                <th>Fulfillment</th>
-            </tr>
-            <tr>
-                <td>
-                    Page is public
-                </td>
-                <td>&#10004;</td>
-            </tr>
-            <tr>
-                <td>
-                    Available at least until the end of November
-                </td>
-                <td>&#10004;</td>
-            </tr>
-            <tr>
-                <td>
-                    Written in HTML without using page generators
-                </td>
-                <td>&#10004;</td>
-            </tr>
-            <tr>
-                <td>
-                    At least one table
-                </td>
-                <td>&#10004;</td>
-            </tr>
-            <tr>
-                <td>
-                    At least one heading tag
-                </td>
-                <td>&#10004;</td>
-            </tr>
-            <tr>
-                <td>
-                    At least 100 characters of text
-                </td>
-                <td>&#10004;</td>
-            </tr>
-            <tr>
-                <td>
-                    At least one image with src attribute and full url in it
-                </td>
-                <td>&#10004;</td>
-            </tr>
-            <tr>
-                <td>
-                    At least one link to <a href="https://taltech.ee/">TalTech</a> homepage
-                </td>
-                <td>&#10004;</td>
-            </tr>
-            <tr>
-                <td>
-                    Tags are written in lowercase
-                </td>
-                <td>&#10004;</td>
-            </tr>
-        </table>
-        <p>Check out my other public pages too:</p>
-        <table>
-            <tr>
-                <th>Webpage</th>
-                <th>Description</th>
-                <th>Preview</th>
-            </tr>
-            <tr>
-                <td><a href="https://devkarin.github.io/lumav_FE_test_02_05_2022/" target="new">AlienShop</a></td>
-                <td>An assignment made for a job interview. Written using React.js.</td>
-                <td><img src="https://drive.google.com/uc?export=view&id=1rRSJRrFWnjy9U4JA7eHMsa21brGdYWcN" alt="Snapshot from AlienShop webpage"></td>
-            </tr>
-            <tr>
-                <td><a href="https://devkarinportfolio.herokuapp.com/">Portfolio</a></td>
-                <td>My professional portfolio webpage. Written using React.js and Node.js</td>
-                <td><img src="https://drive.google.com/uc?export=view&id=1FuWvrLzOyZNxOEyDl8gjyyO1GqwpcAJ0" alt="Snapshot from Portfolio webpage"></td>
-            </tr>
-            <tr>
-                <td><a href="https://devkarin.github.io/fireworks/">Fireworks</a></td>
-                <td>Initialy an assignment for a job interview, but it has slightly developped since. Written using HTML Canvas and vanilla JavaScript.</td>
-                <td><img src="https://drive.google.com/uc?export=view&id=1o4pVQVvHulf-DEUIQJBG1jjZ7saxNgl5" alt="Snapshot from Fireworks webpage"></td>
-            </tr>
-        </table>
-    </body>
+        <div class="table-wrapper">
+            <table>
+                <tr>
+                    <th>
+                        Requirement
+                    </th>
+                    <th class="fulfillment">Fulfillment</th>
+                </tr>
+                <tr>
+                    <td>
+                        Page is public
+                    </td>
+                    <td class="fulfillment">&#10004;</td>
+                </tr>
+                <tr>
+                    <td>
+                        Available at least until the end of November
+                    </td>
+                    <td class="fulfillment">&#10004;</td>
+                </tr>
+                <tr>
+                    <td>
+                        Written in HTML without using page generators
+                    </td>
+                    <td class="fulfillment">&#10004;</td>
+                </tr>
+                <tr>
+                    <td>
+                        At least one table
+                    </td>
+                    <td class="fulfillment">&#10004;</td>
+                </tr>
+                <tr>
+                    <td>
+                        At least one heading tag
+                    </td>
+                    <td class="fulfillment">&#10004;</td>
+                </tr>
+                <tr>
+                    <td>
+                        At least 100 characters of text
+                    </td>
+                    <td class="fulfillment">&#10004;</td>
+                </tr>
+                <tr>
+                    <td>
+                        At least one image with src attribute and full url in it
+                    </td>
+                    <td class="fulfillment">&#10004;</td>
+                </tr>
+                <tr>
+                    <td>
+                        At least one link to <a href="https://taltech.ee/" target="_blank">TalTech</a> homepage
+                    </td>
+                    <td class="fulfillment">&#10004;</td>
+                </tr>
+                <tr>
+                    <td>
+                        Tags are written in lowercase
+                    </td>
+                    <td class="fulfillment">&#10004;</td>
+                </tr>
+            </table>
+        </div>
+
+        <h2>Check out my other public pages too:</h2>
+        <div class="table-wrapper">
+            <table class="public-work">
+                <tr>
+                    <th>Webpage</th>
+                    <th>Description</th>
+                    <th>Preview</th>
+                </tr>
+                <tr>
+                    <td><a href="https://devkarin.github.io/lumav_FE_test_02_05_2022/" target="_blank">AlienShop</a></td>
+                    <td>An assignment made for a job interview. Written using React.js.</td>
+                    <td><a href="https://devkarin.github.io/lumav_FE_test_02_05_2022/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1rRSJRrFWnjy9U4JA7eHMsa21brGdYWcN"
+                            alt="Snapshot from AlienShop webpage"></a></td>
+                </tr>
+                <tr>
+                    <td><a href="https://devkarinportfolio.herokuapp.com/" target="_blank">Portfolio</a></td>
+                    <td>My professional portfolio webpage. Written using React.js and Node.js</td>
+                    <td><a href="https://devkarinportfolio.herokuapp.com/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1FuWvrLzOyZNxOEyDl8gjyyO1GqwpcAJ0"
+                            alt="Snapshot from Portfolio webpage"></a></td>
+                </tr>
+                <tr>
+                    <td><a href="https://devkarin.github.io/fireworks/" target="_blank">Fireworks</a></td>
+                    <td>Initialy an assignment for a job interview, but it has slightly developped since. Written using
+                        HTML Canvas and vanilla JavaScript.</td>
+                    <td><a href="https://devkarin.github.io/fireworks/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1o4pVQVvHulf-DEUIQJBG1jjZ7saxNgl5"
+                            alt="Snapshot from Fireworks webpage"></a></td>
+                </tr>
+            </table>
+        </div>
+    </main>
+    <footer></footer>
+    <script>
+        function darkMode() {
+           document.body.classList.toggle("dark-mode");
+           let currentMode = document.getElementById("mode-switch");
+           currentMode.classList.toggle("dark-mode");
+           if (currentMode.className == "dark-mode") {
+            document.getElementById("mode-switch").innerHTML = "&#127774;";
+           } else {
+            document.getElementById("mode-switch").innerHTML = "&#127769;";
+           }
+        }
+    </script>
+</body>
+
 </html>
