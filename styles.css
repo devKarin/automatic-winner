@@ -6,6 +6,7 @@
 
 html {
     width: 100vw;
+    overflow: hidden;
 }
 
 ::-webkit-scrollbar {
@@ -130,7 +131,7 @@ Grid and responsiveness
 */
 
 body {
-    width: 100vw;
+    width: 100%;
     display: grid;
     grid-template-rows: 12vh 78vh 10vh;
     grid-template-areas:
