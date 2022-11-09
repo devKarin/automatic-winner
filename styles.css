@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+html {
+    width: 100vw;
+}
+
 ::-webkit-scrollbar {
     width: 7px;
 }
@@ -18,6 +22,7 @@
 
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    overflow-y: hidden;
 }
 
 header,
@@ -41,7 +46,7 @@ footer {
     border-top: 1px solid rgba(6, 41, 41, 0.952);
     align-content: center;
     text-align: center;
-    padding-top: 2.5rem;
+    padding-top: 1.2rem;
 }
 
 main {
@@ -63,6 +68,7 @@ h2 {
 
 .table-wrapper {
     overflow-x: auto;
+    margin-bottom: 2rem;
 }
 
 table {
@@ -126,14 +132,26 @@ Grid and responsiveness
 body {
     width: 100vw;
     display: grid;
-    grid-template-rows: 10vh 80vh 10vh;
+    grid-template-rows: 12vh 78vh 10vh;
     grid-template-areas:
         "header"
         "main"
-        "footer"
+        "footer";
 }
 
 @media only screen and (max-width: 768px) {
+    body {
+        grid-template-rows: 14vh 76vh 10vh;
+        grid-template-areas:
+            "header"
+            "main"
+            "footer";
+    }
+
+    header {
+        height: 14vh;
+    }
+
     header {
         grid-area: header;
         display: grid;
