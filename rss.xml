@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+    <title>223435 ajaveeb</title>
+    <link>https://devkarin.github.io/automatic-winner/blog</link>
+    <description>Ajaveeb ITSPEA kursuseks etteantud teemadel</description>
+    <language>et</language>
+    <category>IT</category>
+    <author>devKarin</author>
+    <image>
+        <url>https://drive.google.com/uc?export=view&id=1VK4XIxE5D5vyanQvlfM24KIVmCa4NGDC</url>
+        <title></title>
+        <link>https://devkarin.github.io/automatic-winner/blog</link>
+        <copyright>Unicorninker</copyright>
+    </image>
+    <lastBuildDate>06.02.2023</lastBuildDate>
+    <item>
+        <title>Noppeid IT ajaloost</title>
+        <link>https://devkarin.github.io/automatic-winner/blog#1</link>
+        <description>1. nädala teemapostitus</description>
+        <pubDate>06.02.2023</pubDate>
+    </item>
+        <item>
+        <title>Arpanetist Facebookini - Interneti kujunemislugu</title>
+        <link>https://devkarin.github.io/automatic-winner/blog#2</link>
+        <description>2. nädala teemapostitus</description>
+        <pubDate>06.02.2023</pubDate>
+    </item>
+</channel>
+
+</rss>

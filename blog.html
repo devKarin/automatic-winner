@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <title>223435 ajaveeb</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="devKarin">
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+    <header>
+        <a id="homepage-link" href="#" target="_self">Homepage</a>
+            <a id="homepage-link" href="https://devkarinportfolio.herokuapp.com/" target="_self">Homepage</a> 
+        <a id="github-link" href="https://github.com/devKarin" target="_blank">GitHub</a>
+        <a id="rss-feed-link" href="https://devkarin.github.io/automatic-winner/rss.xml"><div id="rss-button">RSS</div></a>
+        <div id="mode-switch-wrapper"><button id="mode-switch" onclick="darkMode()">&#127769;</button></div>
+    </header>
+    <main>
+        <h1>223435 ajaveeb</h1>
+        <div class="description">
+            <p>Käesolev ajaveeb on loodud <a href="https://taltech.ee/" target="_blank">TalTech</a> ITSPEA kursuse tarbeks.</p>
+            <p>RSS feed selle ajaveebi tarbeks on loodud käsitsi.</p>
+        </div>
+        <div class="posts">
+            <div id="2">
+                <h2 id="post-heading-2">Arpanetist Facebookini - Interneti kujunemislugu</h2>
+                <p>See on teine postitus.</p>
+                <p>Siin on ka link esimesele postitusele: <a href="#1">LINK</a></p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate ratione neque fugit tempore voluptatum, mollitia commodi earum distinctio exercitationem deleniti. Delectus cumque itaque quidem voluptas dignissimos praesentium, voluptatum, dolores aliquam nam repellat dicta adipisci iusto libero fugiat blanditiis, perferendis optio sed ipsum facilis. Molestiae nam eos ut facilis magnam recusandae explicabo exercitationem laboriosam aut at dignissimos natus, itaque eligendi neque? Ea maxime, ex doloribus amet sequi architecto culpa ratione omnis, a voluptatum quos, natus accusantium illum quae dolores repudiandae quam!</p>
+            </div>
+            <div id="1">
+                <h2 id="post-heading-1">Noppeid IT ajaloost</h2>
+                <p>See on esimene postitus.</p>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <p>2022 devKarin</p>
+    </footer>
+    <script>
+        function darkMode() {
+            document.body.classList.toggle("dark-mode");
+            let currentMode = document.getElementById("mode-switch");
+            currentMode.classList.toggle("dark-mode");
+            if (currentMode.className == "dark-mode") {
+                document.getElementById("mode-switch").innerHTML = "&#127774;";
+            } else {
+                document.getElementById("mode-switch").innerHTML = "&#127769;";
+            }
+        }
+    </script>
+</body>
+
+</html>

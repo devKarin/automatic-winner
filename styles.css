@@ -112,6 +112,18 @@ tr:nth-child(even) {
     cursor: pointer;
 }
 
+#rss-feed-link {
+    color:black;
+    font-size: 1rem;
+}
+
+#rss-button {
+    background-color: orangered;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 35px;
+}
+
 img {
     max-width: 10rem;
 }
@@ -160,7 +172,7 @@ body {
         grid-template-rows: auto auto;
         grid-template-areas:
             ". homepage . mode-switch-wrapper ."
-            ". github . . .";
+            ". github . rss .";
     }
 }
 
@@ -169,7 +181,7 @@ body {
         grid-area: header;
         display: grid;
         grid-template-columns: auto 20% 20% auto 5% auto;
-        grid-template-areas: ". homepage github . mode-switch-wrapper .";
+        grid-template-areas: ". homepage github rss mode-switch-wrapper .";
     }
 }
 
@@ -191,6 +203,10 @@ footer {
 
 #mode-switch-wrapper {
     grid-area: mode-switch-wrapper;
+}
+
+#rss-feed-link {
+    grid-area: rss;
 }
 
 .first-section {
