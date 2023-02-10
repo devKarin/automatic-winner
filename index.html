@@ -11,18 +11,25 @@
 
 <body>
     <header>
-        <a id="homepage-link" href="#" target="_self">Homepage</a>
-            <a id="homepage-link" href="https://devkarinportfolio.herokuapp.com/" target="_self">Homepage</a> 
+        <a id="homepage-link" href="#" target="_self">Home</a>
+        <a id="portfolio-link" href="https://devkarinportfolio.herokuapp.com/" target="_self">Portfolio</a> 
         <a id="github-link" href="https://github.com/devKarin" target="_blank">GitHub</a>
+        <a id="blog-link" href="https://devkarin.github.io/automatic-winner/blog">Blog</a>
         <div id="mode-switch-wrapper"><button id="mode-switch" onclick="darkMode()">&#127769;</button></div>
+        <div class="scroll-progress-container">
+            <div id="progress-bar" class="scroll-progress-bar"></div>
+        </div>
     </header>
     <main>
         <h1>223435</h1>
         <h2>About the page</h2>
         <div class="first-section">
             <div class="introduction">
-                <p>This static webpage is created as a part of introductory subject assignment of <a
+                <p>This static webpage was initially created as a part of introductory subject assignment of <a
                         href="https://taltech.ee/" target="_blank">TalTech</a> IT systems development studies.</p>
+                <p>The webpage was never intended to be perfect regarding functionality nor design wise.</p>
+                <br>
+                <p>As it turned out it is rather reasonable to keep it running for other small assignments yet to come.</p>
             </div>
 
             <div class="table-wrapper">
@@ -93,24 +100,12 @@
             <div class="text-column">
                 <p> This page is fully handmade and written using vanilla HTML and CSS. This page doesn't use copied
                     code.</p>
+                <br>
+                <p>The blog page (written in estonian) has handwritten RSS feed you can subscribe to. I will keep the blog running at least until June 2023.</p>
+                <br>
                 <p> You can find more information about my other works and interests in my portfolio referred below.</p>
                 <br>
                 <hr>
-                <br>
-                <p>Here you can find some Lorem ipsum which I will remove later:</p>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nam corporis inventore, omnis quae numquam,
-                    in corrupti consectetur nihil architecto officiis necessitatibus, nemo quam quia iusto aliquam
-                    excepturi. Maxime nulla magnam vitae laudantium, assumenda officia placeat quaerat numquam veritatis
-                    repellat a vel ratione dolore, quibusdam reprehenderit nemo. Ab, eius! Sit, nostrum. Nihil et
-                    temporibus quae possimus sed ab consequatur sequi totam non tempora ea a quasi voluptatibus corrupti
-                    culpa vitae eum reiciendis reprehenderit perspiciatis animi, deleniti quis iusto? Voluptate ipsum in
-                    veritatis omnis, voluptatem ullam commodi vitae facilis recusandae, ratione laboriosam explicabo sit
-                    itaque reprehenderit atque exercitationem praesentium. Voluptatum incidunt vero tempore libero!
-                    Doloremque, debitis! Fuga ex officiis at odit, dolorem voluptatum accusantium dolorum iusto
-                    molestias magni fugiat inventore suscipit, quod tenetur aperiam! Similique reprehenderit tempora
-                    corporis ab consequatur doloribus, inventore laborum quod id deleniti fuga voluptatibus deserunt
-                    perferendis quos laboriosam eum minus recusandae debitis voluptas quibusdam minima illo.
-                    Repudiandae, sed.</p>
             </div>
         </div>
 
@@ -131,8 +126,8 @@
                                 alt="Snapshot from AlienShop webpage"></a></td>
                 </tr>
                 <tr>
-                    <td><a href="#" target="_self">Portfolio</a></td>
-                    <td>My professional portfolio webpage. Written using React.js and Node.js. <s>Please be patient - due to Herokus free solution the loading time can be 7-12s.</s><br><br>I'm really sorry - my portfolio is unavailable at the moment due maintenance.<br>I am planning to move my portfolio soon.<br>Thank you for showing interest though.</td>
+                    <td><a href="https://devkarinportfolio.herokuapp.com/" target="_self">Portfolio</a></td>
+                    <td>My professional portfolio webpage. Written using React.js and Node.js. Please be patient - due to Herokus Eco plan solution the loading time can be 7-12s.</td>
                     <td><a href="#" target="_self"><img
                                 src="https://drive.google.com/uc?export=view&id=1FuWvrLzOyZNxOEyDl8gjyyO1GqwpcAJ0"
                                 alt="Snapshot from Portfolio webpage"></a></td>
@@ -148,11 +143,26 @@
                 </tr>
             </table>
         </div>
+        <button id="go-to-top" title="Back to top" onclick="goBackToTop()">BACK TO TOP</button>
     </main>
     <footer>
         <p>2022 devKarin</p>
     </footer>
     <script>
+        window.addEventListener("load", addScrollListener, false);
+        window.removeEventListener("unload", addScrollListener);
+        function addScrollListener() {
+            window.addEventListener("scroll", () => showScrollProgress(), true);
+            return window.removeEventListener("scroll", showScrollProgress);
+        }
+
+        function showScrollProgress() {
+            let windowToScroll = document.querySelector("main").scrollTop;
+            let scrolledHeight = document.querySelector("main").scrollHeight - document.querySelector("main").clientHeight;
+            let scrolledPercent = (windowToScroll / scrolledHeight) * 100;
+            document.getElementById("progress-bar").style.width = scrolledPercent + "%";
+        }
+
         function darkMode() {
             document.body.classList.toggle("dark-mode");
             let currentMode = document.getElementById("mode-switch");

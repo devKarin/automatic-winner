@@ -22,7 +22,7 @@ html {
 }
 
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
     overflow-y: hidden;
 }
 
@@ -34,13 +34,25 @@ footer {
 
 header {
     border-bottom: 1px solid rgba(6, 41, 41, 0.952);
-    font-size: 2rem;
     align-items: center;
     text-align: center;
+    height: calc(16vh + 1vh);
 }
 
-header a {
+a {
     text-decoration: none;
+    color: rgb(52, 107, 158);
+}
+
+header a, .dark-mode header a {
+    color: rgb(255, 255, 255);
+    text-shadow: -2px 0 rgb(221, 80, 179), 0 2px rgb(221, 80, 179), 2px 0 rgb(221, 80, 179), 0 -2px rgb(221, 80, 179);
+    font-size: 3.4rem;
+}
+
+header a:hover, .dark-mode header a:hover {
+    color: rgb(221, 80, 179);
+    text-shadow: -1.5px 0 rgb(255, 255, 255), 0 1.5px rgb(255, 255, 255), 1.5px 0 rgb(255, 255, 255), 0 -1.5px rgb(255, 255, 255);
 }
 
 footer {
@@ -48,12 +60,23 @@ footer {
     align-content: center;
     text-align: center;
     padding-top: 1.2rem;
+    color: rgb(255, 255, 255);
+    text-shadow: -2px 0 rgb(221, 80, 179), 0 2px rgb(221, 80, 179), 2px 0 rgb(221, 80, 179), 0 -2px rgb(221, 80, 179);
+}
+
+footer p {
+    font-size: 2rem;
 }
 
 main {
-    background-color: rgba(247, 241, 234, 0.363);
     padding: 0 5rem;
     overflow-y: auto;
+    scroll-behavior: smooth;
+    line-height: 1.5;
+}
+
+#blog-main {
+    padding: 0 0 0 5rem;
 }
 
 h1,
@@ -65,6 +88,11 @@ h2 {
 
 h2 {
     margin-bottom: 1.2rem;
+    color:rgb(52, 107, 158);
+}
+
+h3, h4 {
+    color:rgb(52, 107, 158);
 }
 
 .table-wrapper {
@@ -99,29 +127,150 @@ tr:nth-child(even) {
     margin: 0 auto;
 }
 
-.dark-mode {
-    background-color: black;
-    color: rgba(238, 232, 229, 0.979);
+.dark-mode main {
+    background-color: rgb(17, 17, 32);
+    color: rgb(134, 157, 184);
+}
+
+.dark-mode header, .dark-mode footer {
+    background-color: rgb(1, 16, 20);
 }
 
 #mode-switch {
     background-color: rgba(60, 182, 182, 0.596);
-    font-size: 2rem;
+    font-size: 3.8rem;
     border-radius: 50%;
-    align-self: right;
     cursor: pointer;
 }
 
 #rss-feed-link {
-    color:black;
-    font-size: 1rem;
+    color: rgb(241, 101, 20);
+    font-size: 2.8rem;
+    text-shadow: -1px 0 rgb(0, 0, 0), 0 1px rgb(0, 0, 0), 1px 0 rgb(0, 0, 0), 0 -1px rgb(0, 0, 0);
 }
 
-#rss-button {
-    background-color: orangered;
-    border: 1px solid gray;
+.scroll-progress-container {
+    width: 100%;
+    height: 1vh;
+    background-color: rgba(60, 182, 182, 0.596);
+}
+
+.scroll-progress-bar {
+    background-color: rgba(6, 41, 41, 0.952);
+    width: 0%;
+    height: 1vh;
+}
+
+.dark-mode .scroll-progress-bar {
+    background-color:rgb(235, 176, 57);
+}
+
+.blog-description {
+    margin: 1rem 0 2rem 0;
+    text-align: center;
+}
+
+#sidebar {
+    z-index: 1;
+    background-color: rgb(255, 255, 255);
+    padding: 1rem;
+    border: 1px solid black;
     border-radius: 5px;
-    width: 35px;
+    height: calc(100vh - 20rem - 11vh);
+    max-height: max-content;
+    width: 20%;
+    position: fixed;
+    top: 20rem;
+    right: 1rem;
+    overflow-y: auto;
+}
+
+.dark-mode #sidebar {
+    background-color: rgb(77, 129, 122);
+    border: 1px solid rgb(235, 235, 145);
+}
+
+#sidebar h3 {
+    text-align: center;
+    margin: 1rem 0 1rem 0;
+}
+
+#sidebar ol {
+    margin-bottom: 8px;
+    list-style-position: inside;
+}
+
+#sidebar li, #sidebar a {
+    color:rgb(52, 107, 158);
+    transition: all 0.12s ease-in-out;
+}
+
+#sidebar li.active, #sidebar li.active a {
+    color: rgb(221, 80, 179);
+}
+
+.dark-mode #sidebar li, .dark-mode #sidebar a {
+   color:rgb(245, 244, 242);
+}
+
+.dark-mode #sidebar h3 {
+    color: rgb(17, 17, 32);
+}
+
+.dark-mode h2, .dark-mode h3, .dark-mode h4, .dark-mode #sidebar li.active, .dark-mode #sidebar li.active a {
+    color:rgb(235, 176, 57);
+}
+
+.dark-mode h1, .dark-mode a {
+    color: rgb(235, 235, 145);
+}
+
+.dark-mode #sidebar li:hover, .dark-mode #sidebar a:hover {
+    font-size: 1.1rem;
+    color:rgb(235, 235, 145);
+}
+
+#sidebar a:hover, #sidebar li:hover {
+    font-size: 1.1rem;
+}
+
+#posts {
+    margin: 2rem 2rem 0 0;
+    text-align: justify;
+}
+
+#posts article p {
+    font-family: 'Courier New', monospace;
+}
+
+#posts article h3 {
+    margin-bottom: 0.8rem;
+}
+
+#go-to-top {
+    display: none;
+    position: fixed;
+    bottom: 2vh;
+    right: 20px;
+    z-index: 10;
+    border: 1px solid black;
+    outline: none;
+    background-color: white;
+    color: rgb(221, 80, 179);
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 15px;
+    font-size: 1.2rem;
+}
+
+#go-to-top:hover {
+    background-color: pink;
+    color: black;
+    border: 1px solid white;
+}
+
+article p {
+    margin-bottom: 1rem;
 }
 
 img {
@@ -145,7 +294,7 @@ Grid and responsiveness
 body {
     width: 100%;
     display: grid;
-    grid-template-rows: 12vh 78vh 10vh;
+    grid-template-rows: calc(16vh + 1vh) 73vh 10vh;
     grid-template-areas:
         "header"
         "main"
@@ -154,7 +303,7 @@ body {
 
 @media only screen and (max-width: 768px) {
     body {
-        grid-template-rows: 14vh 76vh 10vh;
+        grid-template-rows: calc(16vh + 1vh) 73vh 10vh;
         grid-template-areas:
             "header"
             "main"
@@ -162,17 +311,30 @@ body {
     }
 
     header {
-        height: 14vh;
-    }
-
-    header {
         grid-area: header;
         display: grid;
-        grid-template-columns: auto 20% auto 5%;
-        grid-template-rows: auto auto;
+        grid-template-columns: 3% auto auto auto 3%;
+        grid-template-rows: auto auto 1vh;
         grid-template-areas:
-            ". homepage . mode-switch-wrapper ."
-            ". github . rss .";
+            ". homepage rss mode-switch-wrapper ."
+            ". github portfolio mode-switch-wrapper ."
+            "progress-bar progress-bar progress-bar progress-bar progress-bar";
+    }
+
+    #blog-main {
+        padding: 0 0.8rem 0 1.5rem;
+    }
+
+    header a, .dark-mode header a {
+        font-size: 2.5rem;
+    }
+
+    #rss-feed-link {
+        font-size: 2rem;
+    }
+
+    #mode-switch {
+        font-size: 2rem;
     }
 }
 
@@ -180,8 +342,11 @@ body {
     header {
         grid-area: header;
         display: grid;
-        grid-template-columns: auto 20% 20% auto 5% auto;
-        grid-template-areas: ". homepage github rss mode-switch-wrapper .";
+        grid-template-columns: 3% auto auto auto 10% 14% 3%;
+        grid-template-rows: auto 1vh;
+        grid-template-areas: 
+            ". homepage portfolio github rss mode-switch-wrapper ."
+            "progress-bar progress-bar progress-bar progress-bar progress-bar progress-bar progress-bar";
     }
 }
 
@@ -197,6 +362,10 @@ footer {
     grid-area: homepage;
 }
 
+#portfolio-link {
+    grid-area: portfolio;
+}
+
 #github-link {
     grid-area: github;
 }
@@ -207,6 +376,67 @@ footer {
 
 #rss-feed-link {
     grid-area: rss;
+}
+
+#blog-link {
+    grid-area: rss;
+}
+
+.scroll-progress-container {
+    grid-area: progress-bar;
+}
+
+@media only screen and (max-width: 768px) {
+    .content {
+        display: grid;
+        grid-template-columns: auto;
+        grid-template-areas: "posts";
+    }
+
+    #sidebar {
+        display: none;
+    }
+
+    #sidebar.visible {
+        display: block;
+        background-color: rgb(219, 240, 240);
+        width: 65%;
+        top: 20rem;
+    }
+
+    .dark-mode #sidebar.visible {
+        background-color: rgb(77, 129, 122);
+        border: 1px solid rgb(235, 235, 145);
+    }
+
+    #showSidebar {
+        display: block;
+        position: fixed;
+        bottom: 2vh;
+        left: 20px;
+        border: 1px solid black;
+        outline: none;
+        background-color: white;
+        color: rgb(221, 80, 179);
+        cursor: pointer;
+        padding: 5px;
+        border-radius: 15px;
+        font-size: 1.2rem;
+        z-index: 10;
+    }
+
+}
+
+@media only screen and (min-width: 768px) {
+    .content {
+        display: grid;
+        grid-template-columns: auto 22%;
+        grid-template-areas: "posts sidebar";
+    }
+
+    #showSidebar {
+        display: none;
+    }
 }
 
 .first-section {
@@ -228,4 +458,12 @@ footer {
 
 .text-column {
     grid-area: text-column;
+}
+
+#posts {
+    grid-area: posts;
+}
+
+#sidebar {
+    grid-area: sidebar;
 }

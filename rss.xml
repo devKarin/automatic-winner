@@ -1,34 +1,74 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
-<channel>
-    <title>223435 ajaveeb</title>
-    <link>https://devkarin.github.io/automatic-winner/blog</link>
-    <atom:link href="https://devkarin.github.io/automatic-winner/rss.xml" rel="self" type="application/rss+xml" />
-    <description>Ajaveeb ITSPEA kursuseks etteantud teemadel</description>
-    <language>et</language>
-    <category>IT</category>
-    <image>
-        <url>https://devkarin.github.io/automatic-winner/img/ambientscanner.png</url>
+    <channel>
         <title>223435 ajaveeb</title>
         <link>https://devkarin.github.io/automatic-winner/blog</link>
-        <copyright>Unicorninker</copyright>
-    </image>
-    <lastBuildDate>Mon, 06 Feb 2023 22:00:00 EST</lastBuildDate>
-    <item>
-        <title>Noppeid IT ajaloost</title>
-        <link>https://devkarin.github.io/automatic-winner/blog#1</link>
-        <description>1. nädala teemapostitus</description>
-        <pubDate>Mon, 06 Feb 2023 22:00:00 EST</pubDate>
-        <guid>https://devkarin.github.io/automatic-winner/blog#1</guid>
-    </item>
+        <atom:link href="https://devkarin.github.io/automatic-winner/rss.xml" rel="self"
+            type="application/rss+xml" />
+        <description>Ajaveeb ITSPEA kursuseks etteantud teemadel</description>
+        <language>et</language>
+        <category>IT</category>
+        <image>
+            <url>https://devkarin.github.io/automatic-winner/img/ambientscanner.png</url>
+            <title>223435 ajaveeb</title>
+            <link>https://devkarin.github.io/automatic-winner/blog</link>
+        </image>
+        <lastBuildDate>Fri, 10 Feb 2023 05:41:00 EST</lastBuildDate>
         <item>
-        <title>Arpanetist Facebookini - Interneti kujunemislugu</title>
-        <link>https://devkarin.github.io/automatic-winner/blog#2</link>
-        <description>2. nädala teemapostitus</description>
-        <pubDate>Mon, 06 Feb 2023 22:00:00 EST</pubDate>
-        <guid>https://devkarin.github.io/automatic-winner/blog#2</guid>
-    </item>
-</channel>
+            <title>Pisut IT ajaloost</title>
+            <link>https://devkarin.github.io/automatic-winner/blog#1</link>
+            <description>Me ei mõtle ülemäära sageli sellele, kuivõrd imelisel tehnoloogiaajastul me
+                elame - me võtame tänaseid IT nähtusi sageli nii enesestmõistetavatena, kuigi mõni
+                aeg tagasi ei osanud keegi unistadagi sellistest lahendustest.
 
+                IT alased nähtused võivad olla pöördelised mitte sellest tulenevalt, mis nad on,
+                vaid sellest tulenevalt, kuidas nad on muutnud või suunanud meie mõtlemist,
+                suhtumist ja arvutitega suhtlemist. Näiteks Engelbarti hiire, monitori ja akendega
+                kasutajaliides, aga ka videokõned, hüperlinkide kasutamine ja mitmesugused ideed
+                koostööst ja organisatsiooniteooriast, Weizenbaumi Eliza, Maes'i ühisfiltreerimise
+                süsteem, ARPANET, üleilmne veeb ja graafilised veebilehitsejad, Morrise ussviirus.
+                Keskendudes vaid küsimusele MIS, võib mõni revolutsiooniline nähtus esmapilgul
+                märkamatagi jääda. Mitte vähem oluline pole skoop, milles revolutsioonilisust
+                vaadelda. Kui aga suuremas plaanis vaadata, siis kas IT vallas on üldse mingit
+                revolutsiooni? Inimene püüab masinaid disainida endasarnaseks ja see muster on
+                korduv ja püsiv.
+
+                Inimesed kardavad muudatusi ja võõristavad uusi ideid, nad tahavad jääda nii kauaks,
+                kui nad saavad, sellisteks nagu nad on olnud, mistõttu vahel öeldakse, et mingid
+                leiutised on oma ajast ees ja põruvad läbi. Näiteks Babbage'i Difference engine,
+                Johnsoni puutetundlikud ekraanid, Google Glass, aga ka kaugtöö. Moel või teisel
+                leiavad aga head ideed hiljem taaskasutust.
+
+                Raske on kindlaks teha, milline idee on totter või halb, sest selle tuuma nägemist
+                varjutab keskendumine tänasele teostusele, mida limiteerivad nii teadmised, oskused
+                kui ka teised tehnoloogilised võimalused. Ideed, teadmised, oskused, tooted ja
+                teenused küpsevad ajas, kui neisse investeerida ja kui nad leiavad õige
+                kultuuriruumi, poliitilise ja majandusliku režiimi, kus kasvada. Õnne peab ka olema.
+                Heast ideest võib saada kehv toode või teenus, kui ta lastakse kehvana turule, kui
+                ta lastakse heana turule, aga kasutajate usalduse kuritarvitamine muudab
+                kasutajakogemuse üldisena kehvaks, kui kasutajad ise väärkasutavad toodet või
+                teenust või kui arendamisel on oldud tahtmatult või tahtlikult ja kuritegelikult
+                hooletu. Mõned tooted või teenused on disainitud halvad olema, aga sellele vaatamata
+                kannavad nad endas head ja tulevikuvaatega ideed.
+
+                Microsoft toodete seerias on hulga kahtlase väärtusega ideid, näiteks Windows Vista
+                ja Windows uuenduste poliitika, aga üldjoontes on Microsoft asju paremaks teinud.
+                Facebook ja Google üritavad samuti asju paremaks teha, aga on korduvalt seejuures
+                kuritarvitanud kasutajate usaldust. Kasutajad ise väärkasutasid Microsoft Tay boti
+                ja muutsid selle rassistlikuks. Esokeeled (esoteerilised programmeerimiskeeled) on
+                totrad ja disainitud olema halvad, aga nad on kaugel halvast ideest. ESA ja
+                Arianespace kanderaketi Ariane 5 hävingu muutis kokkuvõttes totraks tahtmatu
+                hooletus, Atomic Energy of Canada Limited radiatsiooniteraapia masina Therac-25
+                puhul saab rääkida kuritegelikust hooletusest, juhtimisvigadest ja võhiklikkusest
+                ning Elizabeth Holmes'i ja Theranose puhul puhtakuhulisest kasuahnusest ja
+                külmaverelisest petturlusest.
+
+                Jah, imeline on praegune tehnoloogiaajastu, aga kannustatuna inimese rumalusest,
+                kitsarinnalisusest ja kasuahnusest, on see ka uskumatult trööstitu ajastu.
+            </description>
+            <pubDate>Fri, 10 Feb 2023 05:41:00 EST</pubDate>
+            <guid>https://devkarin.github.io/automatic-winner/blog#1</guid>
+        </item>
+    </channel>
 </rss>
