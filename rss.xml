@@ -5,7 +5,8 @@
         <title>223435 ajaveeb</title>
         <link>https://devkarin.github.io/automatic-winner/blog</link>
         <atom:link href="https://devkarin.github.io/automatic-winner/rss.xml" rel="self"
-            type="application/rss+xml" />
+            type="application/rss+xml"/>
+        <lastBuildDate>Fri, 17 Feb 2023 02:46:00 EST</lastBuildDate>
         <description>Ajaveeb ITSPEA kursuseks etteantud teemadel</description>
         <language>et</language>
         <category>IT</category>
@@ -65,6 +66,468 @@
 
                 Jah, imeline on praegune tehnoloogiaajastu, aga kannustatuna inimese rumalusest,
                 kitsarinnalisusest ja kasuahnusest, on see ka uskumatult trööstitu ajastu.
+                &lt;h3&gt;Neile, kes viitsivad lugeda:&lt;/h3&gt;
+
+                    &lt;h4&gt;Revolutsioon või mitte revolutsioon, selles on küsimus&lt;/h4&gt;
+                    &lt;p&gt;
+                        Millele mõtleb hommikuti tööle tõttav klienditeenindaja? Võib-olla sellele, kas telefon,
+                        rahakott ja võtmed on taskus ja kui raske päev on tulemas ja kes kolleegidest on täna temaga
+                        samas vahetuses ja kuidas temaga tuleb asju ajada, et päeva lõpuks mõlemad elus oleksid.
+                        Võib-olla isegi hetkeks sellele, kas kassasüsteem otsustab täna viisakalt käituda või jookseb
+                        iga natukese aja tagant kokku. Raamatupidaja? Kui oleks aasta 2018 või 2019, siis võib-olla
+                        sellele, kuidas deebetid ja kreeditid klappima saada, kuhu kadus see üks sent, mille pärast ta
+                        eile kauem pidi tööl olema ja kuidas panna kolleegid enda eest algdokumente skaneerima, muutes
+                        enda töö teiste arvelt efektiivsemaks. Kui on aasta 2021, siis võib-olla sellele, miks ta üldse
+                        varem kontorisse pidi kiirustama, kui kodus saab ta kogu töö palju tõhusamalt tehtud.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        IT tudeng mõtleb tõenäoliselt oma ainepunktide arvule, kaalutud keskhindele, tähtaegadele ja
+                        tegemata töödele ning sellele, millele tal kästakse mõelda. Mõni sõnakuulmatu tudeng aga mõtleb
+                        võib-olla ka sellele, kuivõrd ühtviisi imelisel ja teisalt trööstitul ajal me elame ja mõtleb
+                        võib-olla mitte ainult MILLESTKI, vaid mõtleb ka, KUIDAS võiks millestki mõelda.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Näiteks võib mõelda ja imestada, kui imeline on käesolev tehnoloogiaajastu - täiesti
+                        enesestmõistetavaks on saanud nähtused ja ametid, mida generatsioon või kaks tagasi ei
+                        eksisteerinud. Kui Alice oleks jäneseurgu kukkudes sattunud tänapäeva seiklema, tähendaks Lewis
+                        Carroll tema seiklusi tänini üles.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Selles suures imede virr-varris, mis kaugelt vaadatuna paistab harmoonilise, hoogsate
+                        pintsilöökidega lõuendile kantud staatilise maalina, lähivaates aga dünaamilise
+                        pikslitepöörisena, mille kirjeldamiseks jääb RGBA-st ja kolmest ruumimõõtmest väheks, on raske
+                        valida vaid üht revolutsioonilist tehnoloogilist imet.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Kõige suurem revolutsioon IT-maailmas polegi võib-olla üks leiutis ja nähtus ehk MIS, vaid viis,
+                        kuidas neid on käsitletud ehk KUIDAS. Kui Douglas Engelbart 1960ndatel enda töö tulemusi
+                        presenteeris, olid need eelkõige revolutsioonilised mitte niivõrd selles osas, MIS need olid,
+                        vaid KUIDAS need toimisid ja mida need võimaldasid teha. Douglas Engelbart muutis kardinaalselt
+                        viisi, kuidas inimesed arvutiga suhtlesid ning seadis kursi tulevatele põlvkondadele IT
+                        inimestele, kuidas arvutiga suhtlemisest mõelda võiks. Nii nagu kaks kõrvuti istuvat sõpra
+                        osutavad üksteisele nimetissõrmega erinevaid objekte - vaata seda ja vaata toda, nii saame
+                        arvutitele anda juhiseid ja saada infot arvutihiire ja monitori abil. Revolutsioonilised olid ka
+                        tema teised ideed, kontseptsioonid ja lahendused, näiteks hüperlinkide kasutamine ja
+                        telekonverentsid, koostööviisid nii üldisemas mõttes ja organisatsiooni juhtimise vaates, kui ka
+                        koostöö arvutite vahendusel [&lt;a href="#b1r1"&gt;1&lt;/a&gt;, &lt;a href="#b1r2"&gt;2&lt;/a&gt;]. Kuigi Engelbart ei
+                        olnud ainus, kes andis oma panuse
+                        arvutiga suhtlemise kujundamisse ning juba Engelbarti ajal olid olemas ka puutetundlikud
+                        ekraanid [&lt;a href="#b1r3"&gt;3&lt;/a&gt;], on ta kahtlemata üks neist, kes on inimeste mõttemaailma
+                        arvutisuhtlusest enim
+                        mõjutanud.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Pärast Engelbarti on inimesed eksimatult samal rajal püsinud ning kujundanud arvutiga suhtlust
+                        üha enam inimsuhtluse laadseks. Abivahenditest osutamisel ja kirjutamisel, see on hiirest ja
+                        klaviatuurist, on järk-järgult loobutud ja arvutid on võimelised aktsepteerima ka teisiti
+                        edastatud käsklusi, näiteks häälkäsklusi või mitte nii otseselt käsklustena tajutavat vormi -
+                        andmekogu. Kohati tuleb tähtsaid lepinguid sõlmides tõdeda, et kirjapulgaga kirjutama õppimine
+                        oli asjatu vaev, sest dokumentide allkirjastamiseks tuleb oma initsiaalid sõrmega otse
+                        puuteekraanile vedada, mille peale liiva sisse joonistavad ahvid võiksid tunnustavalt noogutada
+                        - ikkagi üks meie kultuurist.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Kui Engelbart tegi võimsa avapaugu sisend-väljundsüsteemide koha pealt, siis arvuti siseelu,
+                        tarkvara puhul sarnase revolutsiooni alguspunkti raskem leida. 70ndatel arendatud USENET oli
+                        midagi, mis pani arvuti ja võrgu abil inimesed omavahel suhtlema, kuid selles polnud midagi
+                        iseäranis revolutsioonilist. Kuid mis võis olla see alguspunkt, millest mingisugune tarkvara
+                        hakkas inimesega suhtlema teisiti kui varem?
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Üheks selliseks revolutsiooni hoiatuseks võib pidada Joseph Weizenbaumi 1966ndal aastal loodud
+                        pseudointellekti Eliza [&lt;a href="#b1r4"&gt;4&lt;/a&gt;] - programmi, mis simuleerib psühhoanalüütikut ja
+                        "vestleb"
+                        kasutajaga. Nähtamatuks revolutsiooniks võib aga üsna kindlalt lugeda 1990ndatel Pattie Maes ja
+                        tema kolleegide loodud ühisfiltreerimissüsteemi (collaborative filtering), mis üllatas
+                        kasutajaid personaalsete, asjakohaste ja küllalt täpsete muusika soovitustega ja pani tugeva
+                        aluse sotsiaalvõrgustike tekkele [&lt;a href="#b1r5"&gt;5&lt;/a&gt;]. Mõlemad nimetatud "nähtused" näitasid
+                        teed ja eeskuju
+                        tuleviku IT inimestele, kuidas peaks arvuti tarkvara inimesega suhtlema.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Revolutsiooniline on ka kommunikatsiooni muutumine seoses võrgustumisega alates 1969. aastal
+                        ARPANET-i tekkimisega, mis muutis viisi, kuidas andmeid vahetatakse [&lt;a href="#b1r6"&gt;6&lt;/a&gt;] -
+                        otseühendus asendus
+                        andmepakette vahetava arvutivõrguga, mis näitas järeltulevatele põlvedele veenvalt, kuidas
+                        andmeid veel saab vahetada ja kuidas sellisesse andmevahetusse võib suhtuda. Kaudselt näitas see
+                        ka, kuidas suhtuda andmevahetuse tõhususse - kas andmete lühem tee lähtekohast sihtkohta on
+                        alati ka tõhusam? Kas andmete ühes tükis kohaletoimetamine on ikka parem kui nende tükeldamine?
+                        Kuidas suhtuda sellesse, kui kõik andmeühikud ei jõua sihtkohta?
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Samuti võib revolutsiooniliseks pidada arvuti ja arvutivõrgu rolli muutumist personaalarvutite
+                        tekkega 1970ndatel [&lt;a href="#b1r7"&gt;7&lt;/a&gt;] ja üleilmse veebi, mis polnud ainult nohikute
+                        kasutada, ja graafiliste
+                        veebilehitsejate tekkega 1990ndatel [&lt;a href="#b1r7"&gt;7&lt;/a&gt;], mis võib-olla ei andnud suuniseid,
+                        kuidas arvuteid ja
+                        veebi peaks kasutama, vaid näitasid, kuidas seda võib veel kasutada.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Üks revolutsiooniline nähtus, mida kuigi palju kuskil ei mainita, pärineb 2. novembrist 1988.
+                        aastast - "Morrise uss", üks esimesi ussviirusi [&lt;a href="#b1r7"&gt;7&lt;/a&gt;, &lt;a href="#b1r8"&gt;8&lt;/a&gt;],
+                        mis muutis kardinaalselt viisi, kuidas
+                        inimene arvutiga suhtles ja kuidas ta hakkas suhtuma arvutivahendusel suhtlemise turvalisusesse
+                        üldiselt. Kuigi Morrise uss ei olnud esimene programm, mis arvutisüsteemi või -võrgu nõrkusi
+                        otsis või ära kasutas ja isepaljunevate arvutiprogrammide mõtte käis välja näiteks John von
+                        Neumann juba 1949. aastal [&lt;a href="#b1r9"&gt;9&lt;/a&gt;] ja esimene Creeper viirus avastati ARPANETis
+                        juba 1970ndatel [&lt;a href="#b1r10"&gt;10&lt;/a&gt;],
+                        siis esimese kohtumenetluseni viinud sellelaadse intsidendina näitas see teed tulevikusuhtumise
+                        kujundamisele. Inimesed muutsid arvutiga ja arvuti vahendusel suhtlemisel ettevaatlikumaks,
+                        mille märgiks võib olla näiteks uue nähtuse - antiviiruste ja muude küberturbe vahendite ja
+                        võtete tekkimine.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Kõik eelmainitud revolutsioonilised nähtused on subjektiivne valik ning kindlasti on võimalik IT
+                        ajaloost rohkem või vähem revolutsioonilisemaid kaarte välja tõmmata. Suuremaks küsimuseks kui
+                        see, milline neist see kõige-kõigem revolutsioon on, on hoopis: KAS need nähtused üleüldse on
+                        revolutsioonilised? Need kõik järgivad sama mustrit - muuta arvutiga suhtlus inimsuhtlusega
+                        võimalikult sarnaseks ja ühtki totaalset paradigma muutust näha ei ole. Isegi, kui vaadata nii
+                        kaugele, et Turingu varbad juba paistma hakkavad, ikkagi püüab inimene arvutit arendada nii, et
+                        see lõpuks oleks temaga sarnane.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Kui järele mõelda, on kogu arvutiga suhtlemisviisi arengulugu näidanud märke sellest, et
+                        "tulnukas", keda inimesed avakosmosest otsivad ja kellega nad inimsuhtluse reeglitel põhinevat
+                        kontakti otsivad, võib olla siinsamas, meie keskel ja meie endi sünnitatud ja kasvatatud, kuid
+                        me ei tunne teda ära, sest me oleme ta allutanud meie reeglitele ning seega teinud millestki,
+                        mis meist endist on täiesti erinev, endaga sarnase "nähtuse".
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;h4&gt;Muudatusvõõristus&lt;/h4&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Võib-olla, kui arvutite areng olekski saanud teistsuguse suuna - arvutit ja sellega suhtlemist
+                        ei oleks järjepidevalt suunatud inimesega sarnanema, oleks see arenguharu varem või hiljem
+                        ikkagi välja surnud. Mammona kummardamise kõrval on inimesele vähemalt sama oluline oma status
+                        quo säilitamine. Mida kaugemat tulevikku esitletav idee esindab, seda võõram ta on ja ohtlikum
+                        ta tundub, sest inimene näib arvavat, et väljaspool tema praeguse teadmise piire mingisugust
+                        tõde eksisteerida ei saa (mistõttu pole ka vaja üritada uuest nähtusest aru saada, näib inimese
+                        seisukoht olevat).
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Selline olekustabiilsus on ühest küljest heaks vastukaaluks neile vähestele sõgedatele, kes
+                        innovatsiooniga tegelevad, teisalt jälle kipub see välja suretama väärt ideid ja ettevõtmisi
+                        ning muudab mistahes arengu suures plaanis ikkagi ühetaoliseks ja lahendused ebaefektiivseks.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Selle näiteks võib tuua mitmeid nähtusi IT ajaloost, mis olid enda ajast niivõrd ees, et nad
+                        olid juba ette hukule määratud. Mainimisväärsemaid näiteid sellest "surnuaiast" on nii Charles
+                        Babbage'i Difference engine [&lt;a href="#b1r11"&gt;11&lt;/a&gt;], Eric Arthur Johnsoni puutetundlike
+                        ekraanide idee 1960ndatest
+                        (publitseeritud aastal 1965) [&lt;a href="#b1r3"&gt;3&lt;/a&gt;, &lt;a href="#b1r12"&gt;12&lt;/a&gt;], aga ka näiteks
+                        Google prillid (Google Glass) (avalik
+                        lansseerimine aastal 2014) [&lt;a href="#b1r13"&gt;13&lt;/a&gt;]. Difference engine projekti ebaõnnestumise
+                        üle diskuteeritakse
+                        tänini, kuid metallitööstuse tollase võimekuse toota vajalikke komponente ning Babbage'i enda
+                        isiku kõrval, oli kindlasti põhjuseks ka see, et skeptikud leidsid, et sellist masinat pole vaja
+                        - on olemas tabelid, mida arvutamisel kasutada [&lt;a href="#b1r11"&gt;11&lt;/a&gt;].
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Nagu innovatiivsete ideede puhul sageli, jääb kriitikutele hammaste vahele praegune rohmakas
+                        disain ja teostus, kuid nad vaatavad täiesti mööda tulevikupotentsiaalist. Ka Google Glass'i,
+                        mis tavakasutuses oma õiget kandepinda ei leidnud kritiseeriti nii hinna, privaatsuse, kui ka
+                        turvalisuse (sealhulgas meditsiinilises mõttes) seisukohast [&lt;a href="#b1r13"&gt;13&lt;/a&gt;, &lt;a
+                            href="#b1r14"&gt;14&lt;/a&gt;], aga eelkõige jäi
+                        populaarsus saavutamata seetõttu, et selliste prillide kasutamist peeti lihtsalt imelikuks ja
+                        need ei vastanud kasutajate ootustele.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Paljudel oma ajast ees olevatel nähtustel on omadus uuel kujul varem või hiljem tagasi tulla,
+                        mõned aga jäävad mingil kujul hingitsema ja oma aega ootama. Nii leidsid Babbage'i ideed
+                        Difference engine'ist ja Analytical engine'ist aegu hiljem sõltumatult oma koha ikkagi
+                        infotehnoloogia arengus [&lt;a href="#b1r11"&gt;11&lt;/a&gt;], puutetundlikud ekraanid said õige hoo sisse
+                        2007. aastal iPhone
+                        tulekuga [&lt;a href="#b1r3"&gt;3&lt;/a&gt;, &lt;a href="#b1r12"&gt;12&lt;/a&gt;] ja Google Glass jäi hingitsema
+                        äritootena, pärast mida on konkurendid sarnaste
+                        toodetega järgemööda lagedale tulnud.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Abstraktsematest ideedest on kaugtöö IT vallas selline, mis pole veel päris õiget käiku saanud.
+                        Kuigi tänapäevases mõistes kaugtöö juured IT alal ulatuvad vähemalt 1979ndasse aastasse, kui IBM
+                        seda eksperimendina mõnede inseneridega katsetas [&lt;a href="#b1r15"&gt;15&lt;/a&gt;] ja ka viimaste
+                        aastate pandeemia on
+                        sellesuunalist arengut tagant tõuganud, piiravad ka tehnoloogiaettevõtted, kelle töötajail pole
+                        vähimatki põhjust kontoris töötada, kaugtööd ja seda eelkõige kaugtöö iseloomust tuleneva
+                        nõrgeneva kontrolli üle oma töötajate üle.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Kaugtöö ei ole endiselt praegu veel normaalsus, vaid tingimisi aktsepteeritav vorm töötamiseks,
+                        mis kumab läbi nii seadusandlusest, aga selles võib iga töölekandideerija ka ise veenduda. Isegi
+                        kui see kandideerimisvoorus välja ei paista, saab töötajale üsna kiiresti selgeks tema
+                        ebavõrdsem seisund nii infovahetuse, hüvede, tunnustuse kui ka suhtumise koha pealt, olgu
+                        selleks siis internetikulud, mida tööandja kodus töötajale ei kompenseeri, samas kui kontoris
+                        töötajatele võimaldab tööandja oma kulul interneti kasutamist vaikimisi, snäkid ja lõunasöök
+                        tööandja poolt, millega kodus töötajaid ei tule mõttessegi kostitada või siis videokõne abil
+                        koosolekutest osa võtvate kaugtöötajate ignoreerimine ja unustamine. Seega võib üsna kindlalt
+                        väita, et kaugtöö idee on oma ajast endiselt veel pisut ees ja see lihtsalt hingitseb
+                        kuidagimoodi.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;h4&gt;Veel halb, kogemata halb või disainitud olema halb?&lt;/h4&gt;
+                    &lt;p&gt;
+                        Kriitikutele ja skeptikutele ei saa pahaks panna nende kalduvust innovatiivseid ideid, nähtusi
+                        ja tooteid välja suretada. Väga uuenduslikul ja tulevikupotentsiaaliga nähtusel ja halval ideel
+                        ongi väga raske vahet teha - see, mis tänaste teadmiste, võimaluste ja oskuste kontekstis ei
+                        tööta või töötab halvasti, võib tulevikuvõimaluste ja teadmiste juures vastuvõetav, populaarne
+                        või isegi asendamatu lahendus.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Pole vist olemas inimest, kes poleks juba lapsepõlves korduvalt kuulnud, olenemata täpsest
+                        sõnastusest, et harjutamine teeb meistriks. Nii ka ideed, teadmised, oskused, tooted ja teenused
+                        küpsevad ajas, kui vaid neisse õigesti energiat suunata (deliberate practice). Sellele vaatamata
+                        on eduks ja esiletõusuks sageli vaja ka parajal määral õnne. Ka kultuuriruum ja poliitiline
+                        režiim, milles neid ideid või nähtusi kultiveeritakse, mängib nende edus olulist rolli. Nii
+                        näiteks suudavad suletud ühiskonnad ja totalitaarsed režiimid sageli nahka keerata ka väga häid
+                        ideid või valikuliselt võimestada kohati kaheldava väärtusega tehnoloogilisi saavutusi
+                        võimulolijate subjektiivusest lähtudes. Seega kokkuvõttes halb lahendus või nähtus võib ka
+                        sündida väärkasutuse kaudu. Tüürides poliitikast eemale, on ka monopolidel, tahtlikult ja
+                        teadlikult või mitte, väga sarnane mõju.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Microsoft on läbi aegade olnud üks kontserne, kes on korduvalt turule toonud kaheldava
+                        väärtusega või halbu lahendusi. Siiski, ajapikku on Microsoft suutnud tõenäoliselt tänu küllalt
+                        suurele kasutajate hulgale ja nii mõneski nišis monopoolsele seisundile, aga küllap ka
+                        agressiivsele turundusele kuidagi ikka toime tulla ja oma tooteid parendada. Nii mõnelgi lugejal
+                        on tõenäoliselt meeles nii Windows Vista [&lt;a href="#b1r16"&gt;16&lt;/a&gt;] ja Windows 8 [&lt;a
+                            href="#b1r17"&gt;17&lt;/a&gt;] kui ka kohati siiani palju
+                        pahameelt põhjustavad Windows operatsioonisüsteemi kohati ootamatud, salajased ja möödapääsmatud
+                        uuendused. Väidetavalt kaotas 2015ndal aastal Saksamaa teise liiga korvpallimeeskond mängu ja
+                        langes madalamasse liigasse just Windows uuenduste tõttu - mäng hilines üle lubatud aja Windows
+                        uuenduste tõttu punktitabeli sülearvutis [&lt;a href="#b1r18"&gt;18&lt;/a&gt;]. Pole teada, kas ja kui palju
+                        fataalseid juhtumeid
+                        on Windows uuendused põhjustanud.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Google ja Facebook on korduvalt olnud huviorbiidis kasutajaandmete privaatsusküsimustesse
+                        puutuvas [&lt;a href="#b1r19"&gt;19&lt;/a&gt;, &lt;a href="#b1r20"&gt;20&lt;/a&gt;]. Facebookiga seotud Cambridge
+                        Analytica skandaal on kurikuulus ning mõlemad
+                        kontsernid on korduvalt trahvitud või trahviohus kasutajate andmete kogumise ja kasutamise eest
+                        ilma kohase nõusolekuta. Ühest küljest on arusaadav, et ettevõtted püüavad oma tooteid
+                        kasutajate andmeid kogudes paremaks disainida, teisalt muudab selline andmete kogumine
+                        kasutajakogemuse halvemaks ja on seotud kasutajate usalduse kaotamisega.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Mõnikord on kasutajad need, kes tooteid või teenuseid väärkasutavad, muutes need kokkuvõttes
+                        halbadeks lahendusteks. Nii näiteks juhtus Microsoft Tay botiga 2016ndal aastal, mille kasutajad
+                        rassistlikuks koolitasid [&lt;a href="#b1r21"&gt;21&lt;/a&gt;]. Ka teised AI mudelid on näidanud märke
+                        sarnasest efektist [&lt;a href="#b1r22"&gt;22&lt;/a&gt;],
+                        mis pole väga üllatav, sest (kui meenutada postituse algust), siis inimene üritab masinad panna
+                        mõtlema, käituma ja välja nägema endasarnastena.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Mõned ideed või nähtused, mis ongi disainitud olema halvad, leiavad aga üllatuslikult oma koha
+                        innovatiivsete või kasulike lahenduste hulgas. Nii näiteks võib esoteerilisi
+                        programmeerimiskeeli (esolangs) esmapilgul pidada täiesti kasututeks, sest nad ongi disainitud
+                        olema kasutud, keerulised, aeglased ja naeruvääristama programmeerimiskeelte moevoolusid, aga
+                        teisest küljest on neil ka kasulik külg - nende loojad on neid keeli luues kogemuste või
+                        analüüsi kaudu tuvastanud ja keele loomisega näitlikult kirjeldanud terve hulga
+                        programmeerimiskeelte omadusi, mis on tüütud, kasutud, keerulised ja millel tuleviku keeltes
+                        enam kohta ei peaks olema.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Suhteliselt selge on, et nii infotehnoloogias kui mistahes muul alal on halb toode see, mis pole
+                        hoolikalt läbi mõeldud või on lohakalt või rutakalt teostatud, vaatamata sellele, et on teada,
+                        millist riski see endas kätkeb.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Euroopa Kosmoseagentuuri ESA kanderakett Ariane 5, mida opereeris ja arendas Prantsuse ettevõte
+                        Arianespace ja mis pidi satelliite orbiidile transportima, hävines 1996ndal aastal õhkutõusu
+                        järel, tolmustades miljardid dollarid ja üle kümne aasta tööd, mis sellesse oli investeeritud.
+                        Katastroofi põhjustas juhtimissüsteemi tarkvaraviga - Ariane 5-l kasutati Ariane 4 jaoks mõeldud
+                        tarkvara. Efektiivsuse kaalutlustel oli tarkvara koodis puudulik vigade käsitlemine mõnede
+                        muutujate puhul, sest arvati, et see pole tarvilik - turvavaru on piisav ning väärtusi, mis
+                        erindeid tekitavad ei saa tekkida muudest piirangutest tulenevalt . Kui seda tarkvara kasutati
+                        Ariane 5-l, siis need piirangud ületati ja üks nendest veaohtlikest muutujatest põhjustas
+                        protsessorilõksu (trap), mis tekkis 64-bitise ujukomaarvu teisendamisel 16-bitiseks täisarvuks.
+                        Tegelikult seda vigast koodi sisaldavat programmi osa Ariane 5 juhtimiseks vaja ei olnudki, aga
+                        juhtimissüsteem otsustati tervikuna Ariane 4-lt üle võtta. Samuti võinuks katastroofi vältida,
+                        kui kohe pärast õhkutõusmist oleks see programm peatunud, kuid insenerid otsustasid selle igaks
+                        juhuks veel 40 sekundiks tööle jätta. Umbes 37 sekundit pärast starti lülitus juhtimissüsteem
+                        välja ja käivitus raketi enesehävitusmehhanism. [&lt;a href="#b1r18"&gt;18&lt;/a&gt;]
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Kui juba Ariane 5 juhtumi puhul võiks küsida, mis oli arendajatel ja inseneridel arus, et
+                        niivõrd kaaluka, kalli ja mistahes aspektist vaadatuna riskantse projekti puhul jäeti tarkvara
+                        sobivus põhjalikult üle vaatamata, siis järgnev juhtum on enam kui šokeeriv, seda enam, et seda
+                        ei põhjustanud üks programmeerimisviga, vaid vilets tarkvaradisain ja halbade arenduspraktikate
+                        rakendamine.
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        1982. aastal tootis Atomic Energy of Canada Limited radiatsiooniteraapia masina Therac-25
+                        vähipatsientidele. Varasemalt oli sarnaseid masinaid kahasse prantslastega toodetud. Nii nagu ka
+                        Ariane 5 puhul, võeti Therac-25 puhul varasematelt mudelitelt tarkvara üle. Therac varasematel
+                        mudelitel puudus aga pardakompuuter, mida masinate juhtimiseks kasutada ja "ohutuslukkudena"
+                        tugineti varasematel versioonidel riistvarale ja mehaanilistele piirajatele, samas kui Therac-25
+                        ohutus tugines tarkvarale. Nagu aga öeldud, oli tarkvara halvasti disainitud, mõned varasemad
+                        vead olid parandamata ja vähe sellest, et seda tarkvara polnudki võimalik korralikult testida,
+                        ei testitud Therac-25 masinaid terviklikena enne nende kokkupanekut meditsiiniasutustes. Kui
+                        masin andiski üsna üldisi veateateid, lubas see ainsa klahvivajutusega tööd jätkata, muutmata
+                        parameetreid. Masin alustas tööd vaatamata sellele ja enne seda, kui patsient oli õiges asendis
+                        ja kuigi radiotehnikutelt tuli signaale, et masin põhjustab patsientidele tervisekahjustusi,
+                        väitis ettevõte, et radiatsiooni üledoos on võimatu ja kinnitas, et võimalikud masina vead on
+                        parandatud, mis polnud tegelikkuses tõsi. Therac-25 tarkvara ülevaatamine toimus
+                        ettevõttesiseselt ja sõltumatut osapoolt polnud sellesse kaasatud. [&lt;a href="#b1r23"&gt;23&lt;/a&gt;, &lt;a
+                            href="#b1r24"&gt;24&lt;/a&gt;]
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Kuigi vigu, mida Therac-25 arendamisel tehti, oli hulgaliselt juhtimisest kuni
+                        programmeerimiseni, siis radiatsiooni üledoosi otsene põhjus oli võidujooks selle programmis
+                        (&lt;i&gt;race condition&lt;/i&gt;, ajastuse probleem, mille puhul kood ei käitu iga kord samamoodi).
+                        Ajavahemikus
+                        1985-1987 jättis vähemalt kuus patsienti oma elu Therac-25 tarkvara veast alguse saanud
+                        radiatsiooni üledoosi tõttu, mis ületasid sadu kordi lubatud doosi piiri. [&lt;a
+                            href="#b1r23"&gt;23&lt;/a&gt;, &lt;a href="#b1r24"&gt;24&lt;/a&gt;]
+                    &lt;/p&gt;
+                    &lt;br&gt;
+                    &lt;p&gt;
+                        Therac-25 juhtum võtab täiesti keeletuks. Siiski ei saa välistada, et taolisi ebaeetilisi
+                        juhtumeid näeme me tulevikus veel. Lähituleviku näitena - kes teab, kuhu oleks Elizabeth Holmes
+                        ja tema 2003. aastal asutatud ettevõte Theranos [&lt;a href="#b1r25"&gt;25&lt;/a&gt;] tüürinud, kui tema
+                        petturlikku tegevust
+                        2015. aastal poleks paljastatud.
+                        Me elame tehnoloogia ajastul, mis on ühtviisi imeline ja täis uskumatuid tulevikuvaatega
+                        nähtusi, aga samas ka trööstitu. Nukraks teeb selle pildi eelkõige inimese rumalus,
+                        kitsarinnalisus, soov säilitada status quod ja kasuahnus, mis vormivad nii mõnestki
+                        lootustandvast ideest parimal juhul rea keskpäraseid savikäkke.
+                    &lt;/p&gt;
+                    &lt;h4&gt;Viited&lt;/h4&gt;
+                    &lt;ul&gt;
+                        &lt;li id="b1r1"&gt;[1] Doug Engelbart Institute. Doug Engelbart Tribute - A Paradigm for Humanity's
+                            Collective
+                            IQ (2013). [Video] 2014. &lt;a
+                                href="https://www.youtube.com/watch?v=vdFejSdS9fs"&gt;https://www.youtube.com/watch?v=vdFejSdS9fs"&lt;/a&gt;
+                            [Külastatud 09.02.2023].&lt;/li&gt;
+                        &lt;li id="b1r2"&gt;[2] Netguru, Johnson S. Hidden heroes. A Machine For Thinking: How Douglas
+                            Engelbart
+                            Predicted The Future Of Computing. &lt;a
+                                href="https://hiddenheroes.netguru.com/douglas-engelbart"&gt;https://hiddenheroes.netguru.com/douglas-engelbart&lt;/a&gt;
+                            [Külastatud 08.02.2023].&lt;/li&gt;
+                        &lt;li id="b1r3"&gt;[3] Woggon M. A Brief History Of Touchscreen Technology: From The IPhone To
+                            Multi-User
+                            Videowalls. Forbes. 20.07.2022. &lt;a
+                                href="https://www.forbes.com/sites/forbestechcouncil/2022/07/20/a-brief-history-of-touchscreen-technology-from-the-iphone-to-multi-user-videowalls/"&gt;https://www.forbes.com/sites/forbestechcouncil/2022/07/20/a-brief-history-of-touchscreen-technology-from-the-iphone-to-multi-user-videowalls/&lt;/a&gt;.
+                            [Külastatud 08.02.2023].&lt;/li&gt;
+                        &lt;li id="b1r4"&gt;[4] Weizenbaum J. ELIZA – A Computer Program For the Study of Natural Language
+                            Communication
+                            Between Man And Machine. Communications of the ACM 1966;9(1). &lt;a
+                                href="https://cse.buffalo.edu/~rapaport/572/S02/weizenbaum.eliza.1966.pdf"&gt;https://cse.buffalo.edu/~rapaport/572/S02/weizenbaum.eliza.1966.pdf&lt;/a&gt;.
+                        &lt;/li&gt;
+                        &lt;li id="b1r5"&gt;[5] Netguru, Johnson S. Hidden heroes. Intelligent Agent. How Pattie Maes Almost
+                            Invented
+                            Social Media. &lt;a
+                                href="https://hiddenheroes.netguru.com/pattie-maes"&gt;https://hiddenheroes.netguru.com/pattie-maes&lt;/a&gt;.
+                            [Külastatud 08.02.2023].&lt;/li&gt;
+                        &lt;li id="b1r6"&gt;[6] Science Museum Group. From Arpanet To The Internet. &lt;a
+                                href="https://www.sciencemuseum.org.uk/objects-and-stories/arpanet-internet"&gt;https://www.sciencemuseum.org.uk/objects-and-stories/arpanet-internet&lt;/a&gt;.
+                            [Külastatud 10.02.2023].&lt;/li&gt;
+                        &lt;li id="b1r7"&gt;[7] Computer History Museum. Timeline of Computer History. &lt;a
+                                href="https://www.computerhistory.org/timeline/networking-the-web/"&gt;https://www.computerhistory.org/timeline/networking-the-web/&lt;/a&gt;.
+                            [Külastatud 09.02.2023].&lt;/li&gt;
+                        &lt;li id="b1r8"&gt;[8] Cybernetica AS. Andmekaitse ja infoturbe leksikon. Morris worm. &lt;a
+                                href="https://akit.cyber.ee/term/2012-morris-worm"&gt;https://akit.cyber.ee/term/2012-morris-worm&lt;/a&gt;.
+                            [Külastatud 08.02.2023].&lt;/li&gt;
+                        &lt;li id="b1r9"&gt;[9] von Neumann J.; Burks A. W. (ed.) (1966). Theory of self-reproducing automata.
+                            Urbana:
+                            University of Illinois Press; 1966.&lt;/li&gt;
+                        &lt;li id="b1r10"&gt;[10] Bossomaier T., D'Alessandro S., Bradbury R. Human Dimensions of
+                            Cybersecurity. Boca
+                            Raton: CRC Press; 2019. &lt;a
+                                href="https://books.google.ee/books?id=8lW9DwAAQBAJ&pg=PA3&lpg=PA3&dq=history+of+cybersecurity&source=bl&ots=isKTgW0iRr&sig=ACfU3U0Nt9XH6fU5AsJnL0rTO2imVuZfjA&hl=en&sa=X&ved=2ahUKEwiog4-D9Yn9AhWNraQKHUijCwk4PBDoAXoECBwQAw#v=onepage&q=history%20of%20cybersecurity&f=false"&gt;https://books.google.ee/books?&lt;br&gt;id=8lW9DwAAQBAJ&pg=PA3&lpg=PA3&dq=history+of+cybersecurity&source=bl&ots=isKTgW0iRr&sig=&lt;br&gt;ACfU3U0Nt9XH6fU5AsJnL0rTO2imVuZfjA&hl=en&sa=X&ved=&lt;br&gt;2ahUKEwiog4-D9Yn9AhWNraQKHUijCwk4PBDoAXoECBwQAw#v=onepage&q=history%20of%20cybersecurity&f=false&lt;/a&gt;.
+                        &lt;/li&gt;
+                        &lt;li id="b1r11"&gt;[11] Computer History Museum. A Brief History. &lt;a
+                                href="https://www.computerhistory.org/babbage/history/"&gt;https://www.computerhistory.org/babbage/history/&lt;/a&gt;.
+                            [Külastatud 09.02.2023].&lt;/li&gt;
+                        &lt;li id="b1r12"&gt;[12] Netguru, Johnson S. Hidden heroes. The Long Road To Multitouch: How A Mix Of
+                            New Ideas
+                            Shaped The Way We Communicate With Computers. &lt;a
+                                href="https://hiddenheroes.netguru.com/hurst-han-kocienda"&gt;https://hiddenheroes.netguru.com/hurst-han-kocienda&lt;/a&gt;.
+                            [Külastatud 09.02.2023].&lt;/li&gt;
+                        &lt;li id="b1r13"&gt;[13] Eadicicco L., Peckham M., Pullen J. P., Fitzpatrick A. The 20 Most
+                            Successful
+                            Technology Failures of All Time. Time. 03.04.2017. &lt;a
+                                href="https://time.com/4704250/most-successful-technology-tech-failures-gadgets-flops-bombs-fails/"&gt;https://time.com/4704250/most-successful-technology-tech-failures-gadgets-flops-bombs-fails/&lt;/a&gt;.
+                            [Külastatud 09.02.2023].&lt;/li&gt;
+                        &lt;li id="b1r14"&gt;[14] The Clueless Company. 4 Awesome Products of Big Brands That Failed
+                            Miserably. &lt;a
+                                href="https://www.theclueless.company/failed-products-of-big-brands/"&gt;https://www.theclueless.company/failed-products-of-big-brands/&lt;/a&gt;.
+                            [Külastatud 10.02.2023].&lt;/li&gt;
+                        &lt;li id="b1r15"&gt;[15] Toptal LLC. The History of Remote Work, 1560-Present (with Infographic)
+                            (Updated). &lt;a
+                                href="https://www.toptal.com/insights/rise-of-remote/history-of-remote-work"&gt;https://www.toptal.com/insights/rise-of-remote/history-of-remote-work&lt;/a&gt;.
+                            [Külastatud 10.02.2023].&lt;/li&gt;
+                        &lt;li id="b1r16"&gt;[16] WizCase. The 100 Biggest Technology Fails Since 2011. &lt;a
+                                href="https://www.wizcase.com/blog/biggest-tech-failures/"&gt;https://www.wizcase.com/blog/biggest-tech-failures/&lt;/a&gt;.
+                            [Külastatud 10.02.2023] .&lt;/li&gt;
+                        &lt;li id="b1r17"&gt;[17] Vox Media LLC. The 84 biggest flops, fails, and dead dreams of the decade in
+                            tech. &lt;a
+                                href="https://www.theverge.com/2019/12/20/21029499/decade-fails-flops-tech-science-culture-apple-google-data-kickstarter-2010-2019"&gt;https://www.theverge.com/2019/12/20/21029499/decade-fails-flops-tech-science-culture-apple-google-data-kickstarter-2010-2019&lt;/a&gt;.
+                            [Külastatud 10.02.2023].&lt;/li&gt;
+                        &lt;li id="b1r18"&gt;[18] Exo, Hamrouni W. 5 of the Biggest Information Technology Failures and
+                            Scares. Weblog.
+                            &lt;a
+                                href="https://www.exoplatform.com/blog/5-of-the-biggest-information-technology-failures-and-scares/"&gt;https://www.exoplatform.com/blog/5-of-the-biggest-information-technology-failures-and-scares/&lt;/a&gt;.
+                            [Külastatud 10.02.2023].
+                        &lt;/li&gt;
+                        &lt;li id="b1r19"&gt;[19] Firewall Times, Heiligenstein M. X. Google Data Breaches: Full Timeline
+                            Through 2023.
+                            &lt;a
+                                href="https://firewalltimes.com/google-data-breach-timeline/"&gt;https://firewalltimes.com/google-data-breach-timeline/&lt;/a&gt;.
+                            [Külastatud 10.02.2023].
+                        &lt;/li&gt;
+                        &lt;li id="b1r20"&gt;[20] Firewall Times, Heiligenstein M. X. Facebook Data Breaches: Full Timeline
+                            Through 2022.
+                            &lt;a
+                                href="https://firewalltimes.com/facebook-data-breach-timeline/"&gt;https://firewalltimes.com/facebook-data-breach-timeline/&lt;/a&gt;.
+                            [Külastatud 10.02.2023].
+                        &lt;/li&gt;
+                        &lt;li id="b1r21"&gt;[21] Wakefield J. Microsoft chatbot is taught to swear on Twitter. BBC News.
+                            24.03.2016. &lt;a href="https://www.bbc.com/news/technology-35890188"&gt;&lt;/a&gt;. [Külastatud
+                            10.02.2023].&lt;/li&gt;
+                        &lt;li id="b1r22"&gt;[22] Verma P. These robots were trained on AI. They became racist and sexist. The
+                            Washington
+                            Post. 16.07.2022. &lt;a
+                                href="https://www.washingtonpost.com/technology/2022/07/16/racist-robots-ai/"&gt;https://www.washingtonpost.com/technology/2022/07/16/racist-robots-ai/&lt;/a&gt;.
+                            [Külastatud 10.02.2023].&lt;/li&gt;
+                        &lt;li id="b1r23"&gt;[23] Ethics Unwrapped - McCombs School of Business - The University of Texas at
+                            Austin.
+                            Therac-25. &lt;a
+                                href="https://ethicsunwrapped.utexas.edu/case-study/therac-25"&gt;https://ethicsunwrapped.utexas.edu/case-study/therac-25&lt;/a&gt;.
+                            [Külastatud 10.02.2023].&lt;/li&gt;
+                        &lt;li id="b1r24"&gt;[24] Leveson N. G. The Therac-25: 30 Years Later. Computer. 2017;50(11): 8-11. &lt;a
+                                href="https://www.computer.org/csdl/magazine/co/2017/11/mco2017110008/13rRUxAStVR"&gt;https://www.computer.org/csdl/magazine/co/2017/11/mco2017110008/13rRUxAStVR&lt;/a&gt;.
+                        &lt;/li&gt;
+                        &lt;li id="b1r25"&gt;[25] Bundl, Engelen J. 13 Failed Innovations and How to Avoid Them. &lt;a
+                                href="https://www.bundl.com/articles/examples-13-failed-innovations-corporate-startups"&gt;https://www.bundl.com/articles/examples-13-failed-innovations-corporate-startups&lt;/a&gt;.
+                            [Külastatud 10.02.2023].&lt;/li&gt;
+                    &lt;/ul&gt;
             </description>
             <guid>https://devkarin.github.io/automatic-winner/blog#1</guid>
         </item>
