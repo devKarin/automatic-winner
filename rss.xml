@@ -5,7 +5,7 @@
         <link>https://devkarin.github.io/automatic-winner/blog</link>
         <atom:link href="https://devkarin.github.io/automatic-winner/rss.xml" rel="self"
         type="application/rss+xml"/>
-        <lastBuildDate>Thu, 23 Feb 2023 13:52:00 +0200</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 20:41:00 +0000</lastBuildDate>
         <description>Ajaveeb ITSPEA kursuseks etteantud teemadel</description>
         <language>et</language>
         <category>IT</category>
@@ -320,7 +320,7 @@
                 sõnaraamat on suisa uus, näiteks Mulgi sõnaraamat [&lt;a
                 href="https://devkarin.github.io/automatic-winner/blog#b2r1"&gt;1&lt;/a&gt;] või Eesti-komi sõnaraamat [&lt;a
                 href="https://devkarin.github.io/automatic-winner/blog#b2r1"&gt;1&lt;/a&gt;].
-                Siinkirjutaja kahtlustab, et kui Google või mõni teine üleilmne tehnoloogiahiid ei
+                Siinkirjutaja kahtlustab, et Google või mõni teine üleilmne tehnoloogiahiid ei
                 pidanud neid
                 lihtsalt piisavalt apetiitseteks. Vastasel juhul oleksid need kindlasti juba
                 fataalselt
@@ -445,18 +445,17 @@
             <guid>https://devkarin.github.io/automatic-winner/blog#1</guid>
             <pubDate>Fri, 10 Feb 2023 08:51:00 +0200</pubDate>
             <description>
-                &lt;h3&gt;TL;DR:&lt;/h3&gt;
+                <![CDATA[<h3>TL;DR</h3>]]>
                 &lt;p&gt;
                 Me ei mõtle ülemäära sageli sellele, kuivõrd imelisel tehnoloogiaajastul me elame -
                 me
                 võtame
                 tänaseid IT nähtusi sageli nii enesestmõistetavatena, kuigi mõni aeg tagasi ei
-                osanud keegi
-                unistadagi sellistest lahendustest.
+                osanud keegi sellistest lahendustest unistadagi.
                 &lt;/p&gt;
                 &lt;br&gt;
                 &lt;p&gt;
-                IT alased nähtused võivad olla pöördelised mitte sellest tulenevalt, mis nad on,
+                IT-alased nähtused võivad olla pöördelised mitte sellest tulenevalt, mis nad on,
                 vaid
                 sellest
                 tulenevalt, kuidas nad on muutnud või suunanud meie mõtlemist, suhtumist ja
@@ -482,10 +481,10 @@
                 saavad, sellisteks nagu nad on olnud, mistõttu vahel öeldakse, et mingid leiutised
                 on oma
                 ajast
-                ees ja põruvad läbi. Näiteks Babbage'i &lt;i&gt;Difference engine&lt;/i&gt;,
+                ees ja põruvad läbi. Näiteks Babbage'i &lt;em&gt;Difference engine&lt;/em&gt;,
                 Johnsoni puutetundlikud
                 ekraanid,
-                &lt;i&gt;Google Glass&lt;/i&gt;, aga ka kaugtöö. Moel või teisel leiavad aga head
+                &lt;em&gt;Google Glass&lt;/em&gt;, aga ka kaugtöö. Moel või teisel leiavad aga head
                 ideed hiljem
                 taaskasutust.
                 &lt;/p&gt;
@@ -668,7 +667,7 @@
                 "vestleb"
                 kasutajaga. Nähtamatuks revolutsiooniks võib aga üsna kindlalt lugeda 1990ndatel
                 Pattie Maes ja
-                tema kolleegide loodud ühisfiltreerimissüsteemi (collaborative filtering), mis
+                tema kolleegide loodud ühisfiltreerimissüsteemi (&lt;em&gt;collaborative filtering&lt;/em&gt;), mis
                 üllatas
                 kasutajaid personaalsete, asjakohaste ja küllalt täpsete muusika soovitustega ja
                 pani tugeva
@@ -791,12 +790,12 @@
                 ees, et nad
                 olid juba ette hukule määratud. Mainimisväärsemaid näiteid sellest "surnuaiast" on
                 nii Charles
-                Babbage'i Difference engine [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r11"&gt;11&lt;/a&gt;], Eric Arthur
+                Babbage'i &lt;em&gt;Difference engine&lt;/em&gt; [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r11"&gt;11&lt;/a&gt;], Eric Arthur
                 Johnsoni puutetundlike
                 ekraanide idee 1960ndatest
                 (publitseeritud aastal 1965) [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r3"&gt;3&lt;/a&gt;, &lt;a
                 href="https://devkarin.github.io/automatic-winner/blog#b1r12"&gt;12&lt;/a&gt;], aga ka näiteks
-                Google prillid (Google Glass) (avalik
+                Google prillid (&lt;em&gt;Google Glass&lt;/em&gt;) (avalik
                 lansseerimine aastal 2014) [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r13"&gt;13&lt;/a&gt;]. Difference engine
                 projekti ebaõnnestumise
                 üle diskuteeritakse
@@ -828,13 +827,13 @@
                 tagasi tulla,
                 mõned aga jäävad mingil kujul hingitsema ja oma aega ootama. Nii leidsid Babbage'i
                 ideed
-                Difference engine'ist ja Analytical engine'ist aegu hiljem sõltumatult oma koha
+                &lt;em&gt;Difference engine&lt;/em&gt;'ist ja &lt;em&gt;Analytical engine&lt;/em&gt;'ist aegu hiljem sõltumatult oma koha
                 ikkagi
                 infotehnoloogia arengus [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r11"&gt;11&lt;/a&gt;], puutetundlikud
                 ekraanid said õige hoo sisse
                 2007. aastal iPhone
                 tulekuga [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r3"&gt;3&lt;/a&gt;, &lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r12"&gt;12&lt;/a&gt;] ja
-                Google Glass jäi hingitsema
+                &lt;em&gt;Google Glass&lt;/em&gt; jäi hingitsema
                 äritootena, pärast mida on konkurendid sarnaste
                 toodetega järgemööda lagedale tulnud.
                 &lt;/p&gt;
@@ -894,7 +893,7 @@
                 täpsest
                 sõnastusest, et harjutamine teeb meistriks. Nii ka ideed, teadmised, oskused, tooted
                 ja teenused
-                küpsevad ajas, kui vaid neisse õigesti energiat suunata (deliberate practice).
+                küpsevad ajas, kui vaid neisse õigesti energiat suunata (&lt;em&gt;deliberate practice&lt;/em&gt;).
                 Sellele vaatamata
                 on eduks ja esiletõusuks sageli vaja ka parajal määral õnne. Ka kultuuriruum ja
                 poliitiline
@@ -1004,7 +1003,7 @@
                 tarkvara kasutati
                 Ariane 5-l, siis need piirangud ületati ja üks nendest veaohtlikest muutujatest
                 põhjustas
-                protsessorilõksu (trap), mis tekkis 64-bitise ujukomaarvu teisendamisel 16-bitiseks
+                protsessorilõksu (&lt;em&gt;trap&lt;/em&gt;), mis tekkis 64-bitise ujukomaarvu teisendamisel 16-bitiseks
                 täisarvuks.
                 Tegelikult seda vigast koodi sisaldavat programmi osa Ariane 5 juhtimiseks vaja ei
                 olnudki, aga
@@ -1065,7 +1064,7 @@
                 Kuigi vigu, mida Therac-25 arendamisel tehti, oli hulgaliselt juhtimisest kuni
                 programmeerimiseni, siis radiatsiooni üledoosi otsene põhjus oli võidujooks selle
                 programmis
-                (&lt;i&gt;race condition&lt;/i&gt;, ajastuse probleem, mille puhul kood ei käitu iga
+                (&lt;em&gt;race condition&lt;/em&gt;, ajastuse probleem, mille puhul kood ei käitu iga
                 kord samamoodi).
                 Ajavahemikus
                 1985-1987 jättis vähemalt kuus patsienti oma elu Therac-25 tarkvara veast alguse
