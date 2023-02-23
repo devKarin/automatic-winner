@@ -3,9 +3,9 @@
     <channel>
         <title>223435 ajaveeb</title>
         <link>https://devkarin.github.io/automatic-winner/blog</link>
-        <atom:link rel="self"
-            type="application/rss+xml" href="https://devkarin.github.io/automatic-winner/rss.xml" />
-        <lastBuildDate>Thu, 23 Feb 2023 10:53:00 +0200</lastBuildDate>
+        <atom:link href="https://devkarin.github.io/automatic-winner/rss.xml" rel="self"
+        type="application/rss+xml"/>
+        <lastBuildDate>Thu, 23 Feb 2023 13:52:00 +0200</lastBuildDate>
         <description>Ajaveeb ITSPEA kursuseks etteantud teemadel</description>
         <language>et</language>
         <category>IT</category>
@@ -37,11 +37,11 @@
                 uudised.
                 &lt;/p&gt;&lt;br&gt;
                 &lt;p&gt;Esimene proovisaade saadeti Eesti Televisiooni eetrisse 19. juulil 1955
-                [&lt;a href="b3r1"&gt;1&lt;/a&gt;] ja esimene “Aktuaalne
-                kaamera” 11. märtsil 1956 [&lt;a href="b3r2"&gt;2&lt;/a&gt;]. 1971. aasta jaanuaris
+                [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b3r1"&gt;1&lt;/a&gt;] ja esimene “Aktuaalne
+                kaamera” 11. märtsil 1956 [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b3r2"&gt;2&lt;/a&gt;]. 1971. aasta jaanuaris
                 lülitati kohustusliku kaasavarana
                 regulaarse saatena ETV programmi Kesktelevisiooni infoprogramm "Vremja" [&lt;a
-                href="b3r3"&gt;3&lt;/a&gt;], mille läbi aegade
+                href="https://devkarin.github.io/automatic-winner/blog#b3r3"&gt;3&lt;/a&gt;], mille läbi aegade
                 totalitaarsele režiimile iseloomulikust agressiivse algusmuusika mõjutustest
                 “Aktuaalne kaamera”
                 alles tänavu vabanes.
@@ -73,18 +73,18 @@
                 &lt;p&gt;Leidlikud ja ettenägelikud telerionud hakasid juba üsna varakult selle
                 probleemiga tegelema,
                 lükates juba 1991. aastal käima regulaarsed Teksti-TV saated [&lt;a
-                href="b3r4"&gt;4&lt;/a&gt;] ning avades 1996. aastal ETV
-                kodulehekülje internetis [&lt;a href="b3r5"&gt;5&lt;/a&gt;], kuid esimeste
+                href="https://devkarin.github.io/automatic-winner/blog#b3r4"&gt;4&lt;/a&gt;] ning avades 1996. aastal ETV
+                kodulehekülje internetis [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b3r5"&gt;5&lt;/a&gt;], kuid esimeste
                 internetisaadete ilmumiseni kulus veel pikk aeg -
                 alles 2003. aastal käivitati koostöös Elioniga internetitelevisioon ITV, milles olid
                 kättesaadavad olulisemad Eestis toodetud saated ja filmid ning mis võimaldas vaadata
                 “Aktuaalse
-                kaamera” uudiseid ja spordiülekandeid [&lt;a href="b3r6"&gt;6&lt;/a&gt;]. Nõudmiseni
+                kaamera” uudiseid ja spordiülekandeid [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b3r6"&gt;6&lt;/a&gt;]. Nõudmiseni
                 televisioonini jõuti alles aastal 2008,
                 mil loodi aadressil www.err.ee asuv eri lehekülgi ühendav keskportaal, mis võimaldas
                 lugeda nii
                 uudiseid kui vaadata-kuulata viimase kuu jooksul eetris olnud raadio- ja telesaateid
-                [&lt;a href="b3r7"&gt;7&lt;/a&gt;]. Nii
+                [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b3r7"&gt;7&lt;/a&gt;]. Nii
                 nagu Muhvil Eno Raua kuulsast lasteraamatust “Naksitrallid” oli üsna kiire elu ja
                 palju pikki
                 tööreise oma kolleegide Sammalhabe ja Kingpoolega, mille tõttu Muhv pidi iseendale
@@ -96,7 +96,7 @@
                 &lt;p&gt;Algul oli see nõudmiseni televisioon natuke nagu antikvariaat, hiljem rebis
                 aga ERR uue meedia
                 haru end võidujooksus traditsioonilisega kindlalt ette - loodi uus veebikanal
-                Jupiter [&lt;a href="b3r8"&gt;8&lt;/a&gt;],
+                Jupiter [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b3r8"&gt;8&lt;/a&gt;],
                 milles võis leiduda nii värsket sisu, et seda veel mõnda aega traditsioonilises
                 kanalis ei
                 pruugitud näidata.
@@ -131,7 +131,7 @@
                 katse-eksitusmeetodil pätsimise tulemusena midagi poolseeditavat suutnud kokku
                 küpsetada, tundub
                 kuidagi veel uskumatum, et kool, milles õpetatakse meediadisaini [&lt;a
-                href="b3r9"&gt;9&lt;/a&gt;], ei suuda endale mitme
+                href="https://devkarin.github.io/automatic-winner/blog#b3r9"&gt;9&lt;/a&gt;], ei suuda endale mitme
                 aasta vältel arendada kasutajasõbralikku veebilehte. Oletame, et Pallase veebileht
                 on
                 kunstiteos, milles pildid ja videod ei peagi seadmele kohanduma ja menüü kaudu
@@ -146,16 +146,16 @@
                 uurides
                 järk-järgult avastada, on taotluslik. Siiski ei selgita need oletused asjaolu, miks
                 on Kõrgem
-                Kunstikool Pallas Facebook [&lt;a href="b3r10"&gt;10&lt;/a&gt;] postitustele mõned
-                üksikud reageeringud, YouTube kanalil [&lt;a href="b3r11"&gt;11&lt;/a&gt;],
+                Kunstikool Pallas Facebook [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b3r10"&gt;10&lt;/a&gt;] postitustele mõned
+                üksikud reageeringud, YouTube kanalil [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b3r11"&gt;11&lt;/a&gt;],
                 millel on vaid 46 tellijat, on enamus videosid üle kolme aasta vanad ning
-                Instagramis [&lt;a href="b3r12"&gt;12&lt;/a&gt;] on
+                Instagramis [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b3r12"&gt;12&lt;/a&gt;] on
                 ainult 303 postitust.
                 &lt;/p&gt;&lt;br&gt;
                 &lt;p&gt;Vahest on Kõrgem Kunstikool Pallas vahepeal hinge heitnud? Siiski nii see
                 pole ja Pallase enda
                 koduleheküljelt võib leida hulgaliselt viiteid meediakajastustele [&lt;a
-                href="b3r13"&gt;13&lt;/a&gt;]. Tundub sedamoodi, et
+                href="https://devkarin.github.io/automatic-winner/blog#b3r13"&gt;13&lt;/a&gt;]. Tundub sedamoodi, et
                 Pallas on valinud enda suunaks mitte uue meedia, vaid traditsioonilise meedia ning
                 figureerib
                 eelkõige näitustel, toimetistes, ajaleheveergudel ja uudiskirja kaudu (siinkirjutaja
@@ -315,11 +315,11 @@
                 reliktne
                 teatmeteos on veebis endiselt kuidagimoodi elus. Peamiselt on nendeks mitmesugused
                 sõnaraamatud,
-                näiteks Eesti Õigekeelsussõnaraamat [&lt;a href="#b2r1"&gt;1&lt;/a&gt;] või Eesti
-                keele seletav sõnaraamat [&lt;a href="#b2r1"&gt;1&lt;/a&gt;]. Mõni selline
+                näiteks Eesti Õigekeelsussõnaraamat [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b2r1"&gt;1&lt;/a&gt;] või Eesti
+                keele seletav sõnaraamat [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b2r1"&gt;1&lt;/a&gt;]. Mõni selline
                 sõnaraamat on suisa uus, näiteks Mulgi sõnaraamat [&lt;a
-                href="#b2r1"&gt;1&lt;/a&gt;] või Eesti-komi sõnaraamat [&lt;a
-                href="#b2r1"&gt;1&lt;/a&gt;].
+                href="https://devkarin.github.io/automatic-winner/blog#b2r1"&gt;1&lt;/a&gt;] või Eesti-komi sõnaraamat [&lt;a
+                href="https://devkarin.github.io/automatic-winner/blog#b2r1"&gt;1&lt;/a&gt;].
                 Siinkirjutaja kahtlustab, et kui Google või mõni teine üleilmne tehnoloogiahiid ei
                 pidanud neid
                 lihtsalt piisavalt apetiitseteks. Vastasel juhul oleksid need kindlasti juba
@@ -337,12 +337,12 @@
                 teistsuguse kuue mingisuguse edasiarenenud rakendusena või suisa platvormina.
                 Omamoodi sugupuu
                 moodustavad näiteks trükitud taimemääraja, interaktiivne taimemääraja [&lt;a
-                href="#b2r2"&gt;2&lt;/a&gt;], mis on visuaalselt
+                href="https://devkarin.github.io/automatic-winner/blog#b2r2"&gt;2&lt;/a&gt;], mis on visuaalselt
                 sama ebaatraktiivne ja funktsionaalsuselt samaväärne oma trükitud eellasega;
-                eElurikkus [&lt;a href="#b2r3"&gt;3&lt;/a&gt;], mis
+                eElurikkus [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b2r3"&gt;3&lt;/a&gt;], mis
                 võimaldab loodusvaatlejail ise teaduse loomises osaleda ja pakub viiteid ka liikide
                 määramiseks
-                ja PlutoF [&lt;a href="#b2r4"&gt;4&lt;/a&gt;], mis on seotud eElurikkusega, kuid on
+                ja PlutoF [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b2r4"&gt;4&lt;/a&gt;], mis on seotud eElurikkusega, kuid on
                 eelkõige teadlastele suunatud bioloogilise
                 mitmekesisuse platvorm andmete haldamiseks ja analüüsimiseks. Omaette küsimus on,
                 mil määral saab selliseid osalusplatvorme või andmekogusid teatmeteosteks lugeda.
@@ -355,7 +355,7 @@
                 Encylopædia Britannica, et lõpetab ligi kaks ja pool sajandit ajahambale vastu
                 pidanud
                 traditsiooni anda välja köidetud eksemplare ja keskendub veebiväljaandele [&lt;a
-                href="#b2r5"&gt;5&lt;/a&gt;].
+                href="https://devkarin.github.io/automatic-winner/blog#b2r5"&gt;5&lt;/a&gt;].
                 &lt;/p&gt;&lt;br&gt;
                 &lt;p&gt;Koos trükitud sõnastike, entsüklopeediate ja teadusajakirjade
                 järk-järgulise kadumisega on
@@ -378,7 +378,7 @@
                 muutumata säilinud juba veebieelsest ajast, kui maaväliste soengumoodidega ja
                 kuivades toonides
                 alt laienevate pükstega arvutientusiastid ARPANETi ajastul [&lt;a
-                href="#b2r6"&gt;6&lt;/a&gt;] need populaarseks postitasid.
+                href="https://devkarin.github.io/automatic-winner/blog#b2r6"&gt;6&lt;/a&gt;] need populaarseks postitasid.
                 Postilistid olid algselt mõeldud teadlastevahelise kommunikatsiooni vahenditeks, mis
                 üleilmse
                 veebi tulekuga mitte välja ei surnud, vaid stabiilselt elama jäid. Osalt ilmselt
@@ -444,7 +444,8 @@
             <link>https://devkarin.github.io/automatic-winner/blog#1</link>
             <guid>https://devkarin.github.io/automatic-winner/blog#1</guid>
             <pubDate>Fri, 10 Feb 2023 08:51:00 +0200</pubDate>
-            <description>&lt;h3&gt;TL;DR:&lt;/h3&gt;
+            <description>
+                &lt;h3&gt;TL;DR:&lt;/h3&gt;
                 &lt;p&gt;
                 Me ei mõtle ülemäära sageli sellele, kuivõrd imelisel tehnoloogiaajastul me elame -
                 me
@@ -618,12 +619,12 @@
                 tema teised ideed, kontseptsioonid ja lahendused, näiteks hüperlinkide kasutamine ja
                 telekonverentsid, koostööviisid nii üldisemas mõttes ja organisatsiooni juhtimise
                 vaates, kui ka
-                koostöö arvutite vahendusel [&lt;a href="#b1r1"&gt;1&lt;/a&gt;, &lt;a
-                href="#b1r2"&gt;2&lt;/a&gt;]. Kuigi Engelbart ei
+                koostöö arvutite vahendusel [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r1"&gt;1&lt;/a&gt;, &lt;a
+                href="https://devkarin.github.io/automatic-winner/blog#b1r2"&gt;2&lt;/a&gt;]. Kuigi Engelbart ei
                 olnud ainus, kes andis oma panuse
                 arvutiga suhtlemise kujundamisse ning juba Engelbarti ajal olid olemas ka
                 puutetundlikud
-                ekraanid [&lt;a href="#b1r3"&gt;3&lt;/a&gt;], on ta kahtlemata üks neist, kes on
+                ekraanid [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r3"&gt;3&lt;/a&gt;], on ta kahtlemata üks neist, kes on
                 inimeste mõttemaailma
                 arvutisuhtlusest enim
                 mõjutanud.
@@ -662,7 +663,7 @@
                 &lt;p&gt;
                 Üheks selliseks revolutsiooni hoiatuseks võib pidada Joseph Weizenbaumi 1966ndal
                 aastal loodud
-                pseudointellekti Eliza [&lt;a href="#b1r4"&gt;4&lt;/a&gt;] - programmi, mis
+                pseudointellekti Eliza [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r4"&gt;4&lt;/a&gt;] - programmi, mis
                 simuleerib psühhoanalüütikut ja
                 "vestleb"
                 kasutajaga. Nähtamatuks revolutsiooniks võib aga üsna kindlalt lugeda 1990ndatel
@@ -671,7 +672,7 @@
                 üllatas
                 kasutajaid personaalsete, asjakohaste ja küllalt täpsete muusika soovitustega ja
                 pani tugeva
-                aluse sotsiaalvõrgustike tekkele [&lt;a href="#b1r5"&gt;5&lt;/a&gt;]. Mõlemad
+                aluse sotsiaalvõrgustike tekkele [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r5"&gt;5&lt;/a&gt;]. Mõlemad
                 nimetatud "nähtused" näitasid
                 teed ja eeskuju
                 tuleviku IT inimestele, kuidas peaks arvuti tarkvara inimesega suhtlema.
@@ -681,7 +682,7 @@
                 Revolutsiooniline on ka kommunikatsiooni muutumine seoses võrgustumisega alates
                 1969. aastal
                 ARPANET-i tekkimisega, mis muutis viisi, kuidas andmeid vahetatakse [&lt;a
-                href="#b1r6"&gt;6&lt;/a&gt;] -
+                href="https://devkarin.github.io/automatic-winner/blog#b1r6"&gt;6&lt;/a&gt;] -
                 otseühendus asendus
                 andmepakette vahetava arvutivõrguga, mis näitas järeltulevatele põlvedele veenvalt,
                 kuidas
@@ -697,10 +698,10 @@
                 &lt;p&gt;
                 Samuti võib revolutsiooniliseks pidada arvuti ja arvutivõrgu rolli muutumist
                 personaalarvutite
-                tekkega 1970ndatel [&lt;a href="#b1r7"&gt;7&lt;/a&gt;] ja üleilmse veebi, mis polnud
+                tekkega 1970ndatel [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r7"&gt;7&lt;/a&gt;] ja üleilmse veebi, mis polnud
                 ainult nohikute
                 kasutada, ja graafiliste
-                veebilehitsejate tekkega 1990ndatel [&lt;a href="#b1r7"&gt;7&lt;/a&gt;], mis
+                veebilehitsejate tekkega 1990ndatel [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r7"&gt;7&lt;/a&gt;], mis
                 võib-olla ei andnud suuniseid,
                 kuidas arvuteid ja
                 veebi peaks kasutama, vaid näitasid, kuidas seda võib veel kasutada.
@@ -709,8 +710,8 @@
                 &lt;p&gt;
                 Üks revolutsiooniline nähtus, mida kuigi palju kuskil ei mainita, pärineb 2.
                 novembrist 1988.
-                aastast - "Morrise uss", üks esimesi ussviirusi [&lt;a href="#b1r7"&gt;7&lt;/a&gt;,
-                &lt;a href="#b1r8"&gt;8&lt;/a&gt;],
+                aastast - "Morrise uss", üks esimesi ussviirusi [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r7"&gt;7&lt;/a&gt;,
+                &lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r8"&gt;8&lt;/a&gt;],
                 mis muutis kardinaalselt viisi, kuidas
                 inimene arvutiga suhtles ja kuidas ta hakkas suhtuma arvutivahendusel suhtlemise
                 turvalisusesse
@@ -718,9 +719,9 @@
                 nõrkusi
                 otsis või ära kasutas ja isepaljunevate arvutiprogrammide mõtte käis välja näiteks
                 John von
-                Neumann juba 1949. aastal [&lt;a href="#b1r9"&gt;9&lt;/a&gt;] ja esimene Creeper
+                Neumann juba 1949. aastal [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r9"&gt;9&lt;/a&gt;] ja esimene Creeper
                 viirus avastati ARPANETis
-                juba 1970ndatel [&lt;a href="#b1r10"&gt;10&lt;/a&gt;],
+                juba 1970ndatel [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r10"&gt;10&lt;/a&gt;],
                 siis esimese kohtumenetluseni viinud sellelaadse intsidendina näitas see teed
                 tulevikusuhtumise
                 kujundamisele. Inimesed muutsid arvutiga ja arvuti vahendusel suhtlemisel
@@ -790,13 +791,13 @@
                 ees, et nad
                 olid juba ette hukule määratud. Mainimisväärsemaid näiteid sellest "surnuaiast" on
                 nii Charles
-                Babbage'i Difference engine [&lt;a href="#b1r11"&gt;11&lt;/a&gt;], Eric Arthur
+                Babbage'i Difference engine [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r11"&gt;11&lt;/a&gt;], Eric Arthur
                 Johnsoni puutetundlike
                 ekraanide idee 1960ndatest
-                (publitseeritud aastal 1965) [&lt;a href="#b1r3"&gt;3&lt;/a&gt;, &lt;a
-                href="#b1r12"&gt;12&lt;/a&gt;], aga ka näiteks
+                (publitseeritud aastal 1965) [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r3"&gt;3&lt;/a&gt;, &lt;a
+                href="https://devkarin.github.io/automatic-winner/blog#b1r12"&gt;12&lt;/a&gt;], aga ka näiteks
                 Google prillid (Google Glass) (avalik
-                lansseerimine aastal 2014) [&lt;a href="#b1r13"&gt;13&lt;/a&gt;]. Difference engine
+                lansseerimine aastal 2014) [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r13"&gt;13&lt;/a&gt;]. Difference engine
                 projekti ebaõnnestumise
                 üle diskuteeritakse
                 tänini, kuid metallitööstuse tollase võimekuse toota vajalikke komponente ning
@@ -804,7 +805,7 @@
                 isiku kõrval, oli kindlasti põhjuseks ka see, et skeptikud leidsid, et sellist
                 masinat pole vaja
                 - on olemas tabelid, mida arvutamisel kasutada [&lt;a
-                href="#b1r11"&gt;11&lt;/a&gt;].
+                href="https://devkarin.github.io/automatic-winner/blog#b1r11"&gt;11&lt;/a&gt;].
                 &lt;/p&gt;
                 &lt;br&gt;
                 &lt;p&gt;
@@ -815,8 +816,8 @@
                 mis tavakasutuses oma õiget kandepinda ei leidnud kritiseeriti nii hinna,
                 privaatsuse, kui ka
                 turvalisuse (sealhulgas meditsiinilises mõttes) seisukohast [&lt;a
-                href="#b1r13"&gt;13&lt;/a&gt;, &lt;a
-                href="#b1r14"&gt;14&lt;/a&gt;], aga eelkõige jäi
+                href="https://devkarin.github.io/automatic-winner/blog#b1r13"&gt;13&lt;/a&gt;, &lt;a
+                href="https://devkarin.github.io/automatic-winner/blog#b1r14"&gt;14&lt;/a&gt;], aga eelkõige jäi
                 populaarsus saavutamata seetõttu, et selliste prillide kasutamist peeti lihtsalt
                 imelikuks ja
                 need ei vastanud kasutajate ootustele.
@@ -829,10 +830,10 @@
                 ideed
                 Difference engine'ist ja Analytical engine'ist aegu hiljem sõltumatult oma koha
                 ikkagi
-                infotehnoloogia arengus [&lt;a href="#b1r11"&gt;11&lt;/a&gt;], puutetundlikud
+                infotehnoloogia arengus [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r11"&gt;11&lt;/a&gt;], puutetundlikud
                 ekraanid said õige hoo sisse
                 2007. aastal iPhone
-                tulekuga [&lt;a href="#b1r3"&gt;3&lt;/a&gt;, &lt;a href="#b1r12"&gt;12&lt;/a&gt;] ja
+                tulekuga [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r3"&gt;3&lt;/a&gt;, &lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r12"&gt;12&lt;/a&gt;] ja
                 Google Glass jäi hingitsema
                 äritootena, pärast mida on konkurendid sarnaste
                 toodetega järgemööda lagedale tulnud.
@@ -844,7 +845,7 @@
                 Kuigi tänapäevases mõistes kaugtöö juured IT alal ulatuvad vähemalt 1979ndasse
                 aastasse, kui IBM
                 seda eksperimendina mõnede inseneridega katsetas [&lt;a
-                href="#b1r15"&gt;15&lt;/a&gt;] ja ka viimaste
+                href="https://devkarin.github.io/automatic-winner/blog#b1r15"&gt;15&lt;/a&gt;] ja ka viimaste
                 aastate pandeemia on
                 sellesuunalist arengut tagant tõuganud, piiravad ka tehnoloogiaettevõtted, kelle
                 töötajail pole
@@ -919,16 +920,16 @@
                 ka
                 agressiivsele turundusele kuidagi ikka toime tulla ja oma tooteid parendada. Nii
                 mõnelgi lugejal
-                on tõenäoliselt meeles nii Windows Vista [&lt;a href="#b1r16"&gt;16&lt;/a&gt;] ja
+                on tõenäoliselt meeles nii Windows Vista [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r16"&gt;16&lt;/a&gt;] ja
                 Windows 8 [&lt;a
-                href="#b1r17"&gt;17&lt;/a&gt;] kui ka kohati siiani palju
+                href="https://devkarin.github.io/automatic-winner/blog#b1r17"&gt;17&lt;/a&gt;] kui ka kohati siiani palju
                 pahameelt põhjustavad Windows operatsioonisüsteemi kohati ootamatud, salajased ja
                 möödapääsmatud
                 uuendused. Väidetavalt kaotas 2015ndal aastal Saksamaa teise liiga korvpallimeeskond
                 mängu ja
                 langes madalamasse liigasse just Windows uuenduste tõttu - mäng hilines üle lubatud
                 aja Windows
-                uuenduste tõttu punktitabeli sülearvutis [&lt;a href="#b1r18"&gt;18&lt;/a&gt;]. Pole
+                uuenduste tõttu punktitabeli sülearvutis [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r18"&gt;18&lt;/a&gt;]. Pole
                 teada, kas ja kui palju
                 fataalseid juhtumeid
                 on Windows uuendused põhjustanud.
@@ -937,7 +938,7 @@
                 &lt;p&gt;
                 Google ja Facebook on korduvalt olnud huviorbiidis kasutajaandmete
                 privaatsusküsimustesse
-                puutuvas [&lt;a href="#b1r19"&gt;19&lt;/a&gt;, &lt;a href="#b1r20"&gt;20&lt;/a&gt;].
+                puutuvas [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r19"&gt;19&lt;/a&gt;, &lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r20"&gt;20&lt;/a&gt;].
                 Facebookiga seotud Cambridge
                 Analytica skandaal on kurikuulus ning mõlemad
                 kontsernid on korduvalt trahvitud või trahviohus kasutajate andmete kogumise ja
@@ -954,9 +955,9 @@
                 kokkuvõttes
                 halbadeks lahendusteks. Nii näiteks juhtus Microsoft Tay botiga 2016ndal aastal,
                 mille kasutajad
-                rassistlikuks koolitasid [&lt;a href="#b1r21"&gt;21&lt;/a&gt;]. Ka teised AI mudelid
+                rassistlikuks koolitasid [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r21"&gt;21&lt;/a&gt;]. Ka teised AI mudelid
                 on näidanud märke
-                sarnasest efektist [&lt;a href="#b1r22"&gt;22&lt;/a&gt;],
+                sarnasest efektist [&lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r22"&gt;22&lt;/a&gt;],
                 mis pole väga üllatav, sest (kui meenutada postituse algust), siis inimene üritab
                 masinad panna
                 mõtlema, käituma ja välja nägema endasarnastena.
@@ -1014,7 +1015,7 @@
                 juhuks veel 40 sekundiks tööle jätta. Umbes 37 sekundit pärast starti lülitus
                 juhtimissüsteem
                 välja ja käivitus raketi enesehävitusmehhanism. [&lt;a
-                href="#b1r18"&gt;18&lt;/a&gt;]
+                href="https://devkarin.github.io/automatic-winner/blog#b1r18"&gt;18&lt;/a&gt;]
                 &lt;/p&gt;
                 &lt;br&gt;
                 &lt;p&gt;
@@ -1056,8 +1057,8 @@
                 masina vead on
                 parandatud, mis polnud tegelikkuses tõsi. Therac-25 tarkvara ülevaatamine toimus
                 ettevõttesiseselt ja sõltumatut osapoolt polnud sellesse kaasatud. [&lt;a
-                href="#b1r23"&gt;23&lt;/a&gt;, &lt;a
-                href="#b1r24"&gt;24&lt;/a&gt;]
+                href="https://devkarin.github.io/automatic-winner/blog#b1r23"&gt;23&lt;/a&gt;, &lt;a
+                href="https://devkarin.github.io/automatic-winner/blog#b1r24"&gt;24&lt;/a&gt;]
                 &lt;/p&gt;
                 &lt;br&gt;
                 &lt;p&gt;
@@ -1070,7 +1071,7 @@
                 1985-1987 jättis vähemalt kuus patsienti oma elu Therac-25 tarkvara veast alguse
                 saanud
                 radiatsiooni üledoosi tõttu, mis ületasid sadu kordi lubatud doosi piiri. [&lt;a
-                href="#b1r23"&gt;23&lt;/a&gt;, &lt;a href="#b1r24"&gt;24&lt;/a&gt;]
+                href="https://devkarin.github.io/automatic-winner/blog#b1r23"&gt;23&lt;/a&gt;, &lt;a href="https://devkarin.github.io/automatic-winner/blog#b1r24"&gt;24&lt;/a&gt;]
                 &lt;/p&gt;
                 &lt;br&gt;
                 &lt;p&gt;
@@ -1079,7 +1080,7 @@
                 juhtumeid näeme me tulevikus veel. Lähituleviku näitena - kes teab, kuhu oleks
                 Elizabeth Holmes
                 ja tema 2003. aastal asutatud ettevõte Theranos [&lt;a
-                href="#b1r25"&gt;25&lt;/a&gt;] tüürinud, kui tema
+                href="https://devkarin.github.io/automatic-winner/blog#b1r25"&gt;25&lt;/a&gt;] tüürinud, kui tema
                 petturlikku tegevust
                 2015. aastal poleks paljastatud.
                 Me elame tehnoloogia ajastul, mis on ühtviisi imeline ja täis uskumatuid
@@ -1140,7 +1141,13 @@
                 &lt;em&gt;Human Dimensions of
                 Cybersecurity.&lt;/em&gt; Boca
                 Raton: CRC Press; 2019. &lt;a
-                href="#"&gt;No link at the moment, sorry.&lt;/a&gt;.
+                href="https://books.google.ee/books?
+                id=8lW9DwAAQBAJ&amp;pg=PA3&amp;lpg=PA3&amp;dq=history+of+cybersecurity&amp;source=bl&amp;ots=isKTgW0iRr&amp;sig=
+                ACfU3U0Nt9XH6fU5AsJnL0rTO2imVuZfjA&amp;hl=en&amp;sa=X&amp;ved=
+                2ahUKEwiog4-D9Yn9AhWNraQKHUijCwk4PBDoAXoECBwQAw#v=onepage&amp;q=history%20of%20cybersecurity&amp;f=false"&gt;https://books.google.ee/books?
+                id=8lW9DwAAQBAJ&amp;pg=PA3&amp;lpg=PA3&amp;dq=history+of+cybersecurity&amp;source=bl&amp;ots=isKTgW0iRr&amp;sig=
+                ACfU3U0Nt9XH6fU5AsJnL0rTO2imVuZfjA&amp;hl=en&amp;sa=X&amp;ved=
+                2ahUKEwiog4-D9Yn9AhWNraQKHUijCwk4PBDoAXoECBwQAw#v=onepage&amp;q=history%20of%20cybersecurity&amp;f=false.&lt;/a&gt;.
                 &lt;/li&gt;
                 &lt;li id="b1r11"&gt;[11] Computer History Museum. &lt;em&gt;A Brief
                 History.&lt;/em&gt; &lt;a
